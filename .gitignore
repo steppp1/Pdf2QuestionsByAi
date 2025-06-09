@@ -1,5 +1,7 @@
 # 忽略 .env 文件
 .env
+.env.development
+.env.production
 
 # 忽略 output 文件夹及其内容
 output/
