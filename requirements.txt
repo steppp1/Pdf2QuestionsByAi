@@ -1,0 +1,18 @@
+# PDF到题目转换器依赖包
+# Core dependencies
+httpx>=0.25.0
+pydantic>=2.0.0
+tqdm>=4.65.0
+python-dotenv>=1.0.0
+
+# MongoDB support (optional, for future database integration)
+pymongo>=4.0.0
+
+# Additional utilities
+python-dateutil>=2.8.2
+bson>=0.5.10
+
+# Development dependencies (optional)
+pytest>=7.0.0
+black>=23.0.0
+isort>=5.12.0 

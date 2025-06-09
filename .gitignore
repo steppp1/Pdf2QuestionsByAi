@@ -1,0 +1,9 @@
+# 忽略 .env 文件
+.env
+
+# 忽略 output 文件夹及其内容
+output/
+
+# 忽略特定 Markdown 文件
+prompt.md
+设计思路.md

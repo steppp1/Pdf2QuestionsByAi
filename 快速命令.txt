@@ -1,0 +1,8 @@
+conda activate home 
+python main.py -i test.json/示例.json -o output/
+
+mongoimport --uri="mongodb://localhost:27017" \
+            --db=home \
+            --collection=questions \
+            --file=./output/results/test/chunk_0001_result.json \
+            --jsonArray
