@@ -1,0 +1,562 @@
+[
+  {
+    "title": "法律刷题课",
+    "content": "下列关于法的效力的说法，正确的是（",
+    "type": "single",
+    "options": [
+      {
+        "key": "A",
+        "content": "我国法律一般具有溯及力，但法律另有规定的除外",
+        "_id": {
+          "$oid": "6846c457f675df8bcda8a66d"
+        }
+      },
+      {
+        "key": "B",
+        "content": "法律均自其公布之日起生效",
+        "_id": {
+          "$oid": "6846c457f675df8bcda8a66e"
+        }
+      },
+      {
+        "key": "C",
+        "content": "外国公民在中国领域内一般适用中国的法律，但享有外交特权和豁免权的外国人除外",
+        "_id": {
+          "$oid": "6846c457f675df8bcda8a66f"
+        }
+      },
+      {
+        "key": "D",
+        "content": "中国公民在中国领域外，也一律适用中国法律",
+        "_id": {
+          "$oid": "6846c457f675df8bcda8a670"
+        }
+      }
+    ],
+    "correctAnswer": [
+      "C"
+    ],
+    "explanation": "外国公民在中国领域内一般适用中国的法律，但享有外交特权和豁免权的外国人除外。",
+    "difficulty": "medium",
+    "subject": "gongji",
+    "module": "law",
+    "subModule": "",
+    "tags": [
+      "法律"
+    ],
+    "order": 0,
+    "isActive": true,
+    "stats": {
+      "totalAttempts": 0,
+      "correctAttempts": 0,
+      "accuracy": 0
+    },
+    "createdAt": {
+      "$date": "2025-06-09T11:24:07.486026+08:00"
+    },
+    "updatedAt": {
+      "$date": "2025-06-09T11:24:07.486033+08:00"
+    },
+    "_id": {
+      "$oid": "6846c457f675df8bcda8a66c"
+    }
+  },
+  {
+    "title": "法律刷题课",
+    "content": "下列关于法律关系的说法，错误的是（ ）。",
+    "type": "single",
+    "options": [
+      {
+        "key": "A",
+        "content": "法律关系是以法律规范和道德规范为前提的社会关系",
+        "_id": {
+          "$oid": "6846c457f675df8bcda8a672"
+        }
+      },
+      {
+        "key": "B",
+        "content": "法律关系的内容是权利和义务",
+        "_id": {
+          "$oid": "6846c457f675df8bcda8a673"
+        }
+      },
+      {
+        "key": "C",
+        "content": "法律关系由主体、客体、内容三个要素构成",
+        "_id": {
+          "$oid": "6846c457f675df8bcda8a674"
+        }
+      },
+      {
+        "key": "D",
+        "content": "国家也可以成为法律关系的主体",
+        "_id": {
+          "$oid": "6846c457f675df8bcda8a675"
+        }
+      }
+    ],
+    "correctAnswer": [
+      "A"
+    ],
+    "explanation": "法律关系是以法律规范为前提的社会关系，而不是道德规范。",
+    "difficulty": "medium",
+    "subject": "gongji",
+    "module": "law",
+    "subModule": "",
+    "tags": [
+      "法律"
+    ],
+    "order": 1,
+    "isActive": true,
+    "stats": {
+      "totalAttempts": 0,
+      "correctAttempts": 0,
+      "accuracy": 0
+    },
+    "createdAt": {
+      "$date": "2025-06-09T11:24:07.486087+08:00"
+    },
+    "updatedAt": {
+      "$date": "2025-06-09T11:24:07.486089+08:00"
+    },
+    "_id": {
+      "$oid": "6846c457f675df8bcda8a671"
+    }
+  },
+  {
+    "title": "法律刷题课",
+    "content": "《民法典》规定：“民事主体从事民事活动，不得违反法律，不得违背公序良俗。”该条规定体现了法律的（    ）。",
+    "type": "single",
+    "options": [
+      {
+        "key": "A",
+        "content": "教育作用",
+        "_id": {
+          "$oid": "6846c457f675df8bcda8a677"
+        }
+      },
+      {
+        "key": "B",
+        "content": "预测作用",
+        "_id": {
+          "$oid": "6846c457f675df8bcda8a678"
+        }
+      },
+      {
+        "key": "C",
+        "content": "指引作用",
+        "_id": {
+          "$oid": "6846c457f675df8bcda8a679"
+        }
+      },
+      {
+        "key": "D",
+        "content": "评价作用",
+        "_id": {
+          "$oid": "6846c457f675df8bcda8a67a"
+        }
+      }
+    ],
+    "correctAnswer": [
+      "C"
+    ],
+    "explanation": "该条规定体现了法律的指引作用，即引导人们的行为符合法律和公序良俗。",
+    "difficulty": "medium",
+    "subject": "gongji",
+    "module": "law",
+    "subModule": "",
+    "tags": [
+      "法律"
+    ],
+    "order": 2,
+    "isActive": true,
+    "stats": {
+      "totalAttempts": 0,
+      "correctAttempts": 0,
+      "accuracy": 0
+    },
+    "createdAt": {
+      "$date": "2025-06-09T11:24:07.486104+08:00"
+    },
+    "updatedAt": {
+      "$date": "2025-06-09T11:24:07.486106+08:00"
+    },
+    "_id": {
+      "$oid": "6846c457f675df8bcda8a676"
+    }
+  },
+  {
+    "title": "法律刷题课",
+    "content": "“法律必须被信仰，否则它将形同虚设”。这句话表明一个人只有从内心深处真正认同、信任和信仰法律，才会自觉维护法律的权威。由此可知（    ）。",
+    "type": "multiple",
+    "options": [
+      {
+        "key": "A",
+        "content": "法律的内在说服力是法律权威的内在基础",
+        "_id": {
+          "$oid": "6846c457f675df8bcda8a67c"
+        }
+      },
+      {
+        "key": "B",
+        "content": "法律权威不可能完全建立在外在强制力的基础之上",
+        "_id": {
+          "$oid": "6846c457f675df8bcda8a67d"
+        }
+      },
+      {
+        "key": "C",
+        "content": "法律信仰与宗教信仰没有本质的区别",
+        "_id": {
+          "$oid": "6846c457f675df8bcda8a67e"
+        }
+      },
+      {
+        "key": "D",
+        "content": "法律信仰是法律制定和执行的根本依据",
+        "_id": {
+          "$oid": "6846c457f675df8bcda8a67f"
+        }
+      }
+    ],
+    "correctAnswer": [
+      "A",
+      "B"
+    ],
+    "explanation": "法律的内在说服力和权威性不仅仅依赖于外在强制力，还需要人们的内心认同和信仰。",
+    "difficulty": "medium",
+    "subject": "gongji",
+    "module": "law",
+    "subModule": "",
+    "tags": [
+      "法律"
+    ],
+    "order": 3,
+    "isActive": true,
+    "stats": {
+      "totalAttempts": 0,
+      "correctAttempts": 0,
+      "accuracy": 0
+    },
+    "createdAt": {
+      "$date": "2025-06-09T11:24:07.486118+08:00"
+    },
+    "updatedAt": {
+      "$date": "2025-06-09T11:24:07.486120+08:00"
+    },
+    "_id": {
+      "$oid": "6846c457f675df8bcda8a67b"
+    }
+  },
+  {
+    "title": "法律刷题课",
+    "content": "在我国的立法体制下，属于地方性法规可以规定的事项是（ ）。",
+    "type": "single",
+    "options": [
+      {
+        "key": "A",
+        "content": "本行政区内各级政府的产生、组织和职权的规定",
+        "_id": {
+          "$oid": "6846c457f675df8bcda8a681"
+        }
+      },
+      {
+        "key": "B",
+        "content": "本行政区内文化及公共事业建设",
+        "_id": {
+          "$oid": "6846c457f675df8bcda8a682"
+        }
+      },
+      {
+        "key": "C",
+        "content": "基层群众自治制度",
+        "_id": {
+          "$oid": "6846c457f675df8bcda8a683"
+        }
+      },
+      {
+        "key": "D",
+        "content": "私人财产征收制度",
+        "_id": {
+          "$oid": "6846c457f675df8bcda8a684"
+        }
+      }
+    ],
+    "correctAnswer": [
+      "B"
+    ],
+    "explanation": "地方性法规可以规定本行政区内文化及公共事业建设等事项。",
+    "difficulty": "medium",
+    "subject": "gongji",
+    "module": "law",
+    "subModule": "",
+    "tags": [
+      "法律"
+    ],
+    "order": 4,
+    "isActive": true,
+    "stats": {
+      "totalAttempts": 0,
+      "correctAttempts": 0,
+      "accuracy": 0
+    },
+    "createdAt": {
+      "$date": "2025-06-09T11:24:07.486132+08:00"
+    },
+    "updatedAt": {
+      "$date": "2025-06-09T11:24:07.486134+08:00"
+    },
+    "_id": {
+      "$oid": "6846c457f675df8bcda8a680"
+    }
+  },
+  {
+    "title": "法律刷题课",
+    "content": "培养人们的法律意识必须强化人们的（",
+    "type": "multiple",
+    "options": [
+      {
+        "key": "A",
+        "content": "权利意识",
+        "_id": {
+          "$oid": "6846c457f675df8bcda8a686"
+        }
+      },
+      {
+        "key": "B",
+        "content": "道德观念",
+        "_id": {
+          "$oid": "6846c457f675df8bcda8a687"
+        }
+      },
+      {
+        "key": "C",
+        "content": "诚信观念",
+        "_id": {
+          "$oid": "6846c457f675df8bcda8a688"
+        }
+      },
+      {
+        "key": "D",
+        "content": "责任意识",
+        "_id": {
+          "$oid": "6846c457f675df8bcda8a689"
+        }
+      }
+    ],
+    "correctAnswer": [
+      "A",
+      "D"
+    ],
+    "explanation": "培养法律意识需要强化权利意识和责任意识。",
+    "difficulty": "medium",
+    "subject": "gongji",
+    "module": "law",
+    "subModule": "",
+    "tags": [
+      "法律"
+    ],
+    "order": 5,
+    "isActive": true,
+    "stats": {
+      "totalAttempts": 0,
+      "correctAttempts": 0,
+      "accuracy": 0
+    },
+    "createdAt": {
+      "$date": "2025-06-09T11:24:07.486144+08:00"
+    },
+    "updatedAt": {
+      "$date": "2025-06-09T11:24:07.486147+08:00"
+    },
+    "_id": {
+      "$oid": "6846c457f675df8bcda8a685"
+    }
+  },
+  {
+    "title": "法律刷题课",
+    "content": "我国法律制定程序中的最后一个步骤是（ ）。",
+    "type": "single",
+    "options": [
+      {
+        "key": "A",
+        "content": "法律草案的公布",
+        "_id": {
+          "$oid": "6846c457f675df8bcda8a68b"
+        }
+      },
+      {
+        "key": "B",
+        "content": "法律草案的表决和通过",
+        "_id": {
+          "$oid": "6846c457f675df8bcda8a68c"
+        }
+      },
+      {
+        "key": "C",
+        "content": "法律的公布",
+        "_id": {
+          "$oid": "6846c457f675df8bcda8a68d"
+        }
+      },
+      {
+        "key": "D",
+        "content": "法律草案的审议",
+        "_id": {
+          "$oid": "6846c457f675df8bcda8a68e"
+        }
+      }
+    ],
+    "correctAnswer": [
+      "C"
+    ],
+    "explanation": "法律制定程序的最后一个步骤是法律的公布。",
+    "difficulty": "medium",
+    "subject": "gongji",
+    "module": "law",
+    "subModule": "",
+    "tags": [
+      "法律"
+    ],
+    "order": 6,
+    "isActive": true,
+    "stats": {
+      "totalAttempts": 0,
+      "correctAttempts": 0,
+      "accuracy": 0
+    },
+    "createdAt": {
+      "$date": "2025-06-09T11:24:07.486156+08:00"
+    },
+    "updatedAt": {
+      "$date": "2025-06-09T11:24:07.486159+08:00"
+    },
+    "_id": {
+      "$oid": "6846c457f675df8bcda8a68a"
+    }
+  },
+  {
+    "title": "法律刷题课",
+    "content": "法是调整社会关系的行为规范，它通过规范人们的行为而达到调整社会关系的目的。下列不属于法的形式上的特征的是（ ）。",
+    "type": "single",
+    "options": [
+      {
+        "key": "A",
+        "content": "强制性",
+        "_id": {
+          "$oid": "6846c457f675df8bcda8a690"
+        }
+      },
+      {
+        "key": "B",
+        "content": "规范性",
+        "_id": {
+          "$oid": "6846c457f675df8bcda8a691"
+        }
+      },
+      {
+        "key": "C",
+        "content": "一般性",
+        "_id": {
+          "$oid": "6846c457f675df8bcda8a692"
+        }
+      },
+      {
+        "key": "D",
+        "content": "具体性",
+        "_id": {
+          "$oid": "6846c457f675df8bcda8a693"
+        }
+      }
+    ],
+    "correctAnswer": [
+      "D"
+    ],
+    "explanation": "法的形式上的特征包括强制性、规范性和一般性，不包括具体性。",
+    "difficulty": "medium",
+    "subject": "gongji",
+    "module": "law",
+    "subModule": "",
+    "tags": [
+      "法律"
+    ],
+    "order": 7,
+    "isActive": true,
+    "stats": {
+      "totalAttempts": 0,
+      "correctAttempts": 0,
+      "accuracy": 0
+    },
+    "createdAt": {
+      "$date": "2025-06-09T11:24:07.486173+08:00"
+    },
+    "updatedAt": {
+      "$date": "2025-06-09T11:24:07.486175+08:00"
+    },
+    "_id": {
+      "$oid": "6846c457f675df8bcda8a68f"
+    }
+  },
+  {
+    "title": "法律刷题课",
+    "content": "根据不同的标准，可以对法作不同的分类，成文法和不成文法的划分依据是（",
+    "type": "single",
+    "options": [
+      {
+        "key": "A",
+        "content": "根据法的创制方式和发布形式所作的分类",
+        "_id": {
+          "$oid": "6846c457f675df8bcda8a695"
+        }
+      },
+      {
+        "key": "B",
+        "content": "根据法的内容、效力和制定程序所作的分类",
+        "_id": {
+          "$oid": "6846c457f675df8bcda8a696"
+        }
+      },
+      {
+        "key": "C",
+        "content": "根据法的空间效力、时间效力或对人的效力所作的分类",
+        "_id": {
+          "$oid": "6846c457f675df8bcda8a697"
+        }
+      },
+      {
+        "key": "D",
+        "content": "根据法的内容所作的分类",
+        "_id": {
+          "$oid": "6846c457f675df8bcda8a698"
+        }
+      }
+    ],
+    "correctAnswer": [
+      "A"
+    ],
+    "explanation": "成文法和不成文法的划分依据是根据法的创制方式和发布形式所作的分类。",
+    "difficulty": "medium",
+    "subject": "gongji",
+    "module": "law",
+    "subModule": "",
+    "tags": [
+      "法律"
+    ],
+    "order": 8,
+    "isActive": true,
+    "stats": {
+      "totalAttempts": 0,
+      "correctAttempts": 0,
+      "accuracy": 0
+    },
+    "createdAt": {
+      "$date": "2025-06-09T11:24:07.486185+08:00"
+    },
+    "updatedAt": {
+      "$date": "2025-06-09T11:24:07.486187+08:00"
+    },
+    "_id": {
+      "$oid": "6846c457f675df8bcda8a694"
+    }
+  }
+]

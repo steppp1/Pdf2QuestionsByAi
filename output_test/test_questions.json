@@ -1,0 +1,3279 @@
+[
+  {
+    "title": "法律刷题课",
+    "content": "以下哪些属于我国宪法性法律的是（ ）。",
+    "type": "multiple",
+    "options": [
+      {
+        "key": "A",
+        "content": "《国务院组织法》",
+        "_id": {
+          "$oid": "6846c3cef675df8bcda8a591"
+        }
+      },
+      {
+        "key": "B",
+        "content": "《刑法》",
+        "_id": {
+          "$oid": "6846c3cef675df8bcda8a592"
+        }
+      },
+      {
+        "key": "C",
+        "content": "《香港特别行政区基本法》",
+        "_id": {
+          "$oid": "6846c3cef675df8bcda8a593"
+        }
+      },
+      {
+        "key": "D",
+        "content": "《民族区域自治法》",
+        "_id": {
+          "$oid": "6846c3cef675df8bcda8a594"
+        }
+      }
+    ],
+    "correctAnswer": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "宪法性法律是指具有宪法性质的法律文件，如《国务院组织法》、《香港特别行政区基本法》和《民族区域自治法》等。",
+    "difficulty": "medium",
+    "subject": "gongji",
+    "module": "law",
+    "subModule": "",
+    "tags": [
+      "宪法"
+    ],
+    "order": 0,
+    "isActive": true,
+    "stats": {
+      "totalAttempts": 0,
+      "correctAttempts": 0,
+      "accuracy": 0
+    },
+    "createdAt": {
+      "$date": "2025-06-09T11:21:50.111701+08:00"
+    },
+    "updatedAt": {
+      "$date": "2025-06-09T11:21:50.111709+08:00"
+    },
+    "_id": {
+      "$oid": "6846c3cef675df8bcda8a590"
+    }
+  },
+  {
+    "title": "法律刷题课",
+    "content": "下列选项中属于法律制裁的是（ ）。",
+    "type": "multiple",
+    "options": [
+      {
+        "key": "A",
+        "content": "国家公务员甲因违法失职受到开除处分",
+        "_id": {
+          "$oid": "6846c3cef675df8bcda8a596"
+        }
+      },
+      {
+        "key": "B",
+        "content": "驾驶员乙开车时不小心将一行人撞成轻微伤，乙主动赔偿了行人 300 元",
+        "_id": {
+          "$oid": "6846c3cef675df8bcda8a597"
+        }
+      },
+      {
+        "key": "C",
+        "content": "公民丙犯盗窃罪，但因有立功表现，法院判决免除其法律责任",
+        "_id": {
+          "$oid": "6846c3cef675df8bcda8a598"
+        }
+      },
+      {
+        "key": "D",
+        "content": "党员丁因违反党纪受到党内严重警告处分",
+        "_id": {
+          "$oid": "6846c3cef675df8bcda8a599"
+        }
+      }
+    ],
+    "correctAnswer": [
+      "A",
+      "C"
+    ],
+    "explanation": "法律制裁是指国家司法机关对违法行为采取的强制性措施，如开除处分和法院判决。",
+    "difficulty": "medium",
+    "subject": "gongji",
+    "module": "law",
+    "subModule": "",
+    "tags": [
+      "法律制裁"
+    ],
+    "order": 1,
+    "isActive": true,
+    "stats": {
+      "totalAttempts": 0,
+      "correctAttempts": 0,
+      "accuracy": 0
+    },
+    "createdAt": {
+      "$date": "2025-06-09T11:21:50.114698+08:00"
+    },
+    "updatedAt": {
+      "$date": "2025-06-09T11:21:50.114705+08:00"
+    },
+    "_id": {
+      "$oid": "6846c3cef675df8bcda8a595"
+    }
+  },
+  {
+    "title": "法律刷题课",
+    "content": "截至2018 年上半年，全国纪检监察机关共处分 24 万人，其中包括陕西省副省长冯新柱、山东省副省长、江西省副省长等 10 只“老虎”。这主要表明（    ）。",
+    "type": "single",
+    "options": [
+      {
+        "key": "A",
+        "content": "依法治国是党领导人民治理国家的基本方式",
+        "_id": {
+          "$oid": "6846c3cef675df8bcda8a59b"
+        }
+      },
+      {
+        "key": "B",
+        "content": "所有公民都平等地履行宪法和法律规定的义务",
+        "_id": {
+          "$oid": "6846c3cef675df8bcda8a59c"
+        }
+      },
+      {
+        "key": "C",
+        "content": "国家司法机关和行政机关在对腐败分子适用法律时从严从紧",
+        "_id": {
+          "$oid": "6846c3cef675df8bcda8a59d"
+        }
+      },
+      {
+        "key": "D",
+        "content": "任何公民或组织都不享有超越宪法和法律的特权",
+        "_id": {
+          "$oid": "6846c3cef675df8bcda8a59e"
+        }
+      }
+    ],
+    "correctAnswer": [
+      "D"
+    ],
+    "explanation": "这表明任何公民或组织都不享有超越宪法和法律的特权，法律面前人人平等。",
+    "difficulty": "medium",
+    "subject": "gongji",
+    "module": "law",
+    "subModule": "",
+    "tags": [
+      "依法治国"
+    ],
+    "order": 2,
+    "isActive": true,
+    "stats": {
+      "totalAttempts": 0,
+      "correctAttempts": 0,
+      "accuracy": 0
+    },
+    "createdAt": {
+      "$date": "2025-06-09T11:21:50.114730+08:00"
+    },
+    "updatedAt": {
+      "$date": "2025-06-09T11:21:50.114734+08:00"
+    },
+    "_id": {
+      "$oid": "6846c3cef675df8bcda8a59a"
+    }
+  },
+  {
+    "title": "法律刷题课",
+    "content": "从违法行为的构成要素看，判断某一行为是否违法关键因素是（ ）。",
+    "type": "single",
+    "options": [
+      {
+        "key": "A",
+        "content": "该行为在法律上被确认违法",
+        "_id": {
+          "$oid": "6846c3cef675df8bcda8a5a0"
+        }
+      },
+      {
+        "key": "B",
+        "content": "该行为有故意或过失的过错",
+        "_id": {
+          "$oid": "6846c3cef675df8bcda8a5a1"
+        }
+      },
+      {
+        "key": "C",
+        "content": "该行为由具有责任能力的主体做出",
+        "_id": {
+          "$oid": "6846c3cef675df8bcda8a5a2"
+        }
+      },
+      {
+        "key": "D",
+        "content": "该行为侵犯了法律所保护的某种社会关系或社会权利",
+        "_id": {
+          "$oid": "6846c3cef675df8bcda8a5a3"
+        }
+      }
+    ],
+    "correctAnswer": [
+      "D"
+    ],
+    "explanation": "判断某一行为是否违法的关键因素是该行为是否侵犯了法律所保护的某种社会关系或社会权利。",
+    "difficulty": "medium",
+    "subject": "gongji",
+    "module": "law",
+    "subModule": "",
+    "tags": [
+      "违法行为"
+    ],
+    "order": 3,
+    "isActive": true,
+    "stats": {
+      "totalAttempts": 0,
+      "correctAttempts": 0,
+      "accuracy": 0
+    },
+    "createdAt": {
+      "$date": "2025-06-09T11:21:50.114755+08:00"
+    },
+    "updatedAt": {
+      "$date": "2025-06-09T11:21:50.114758+08:00"
+    },
+    "_id": {
+      "$oid": "6846c3cef675df8bcda8a59f"
+    }
+  },
+  {
+    "title": "法律刷题课",
+    "content": "科学立法、严格执法、公正司法、全民守法是我国新时代法治建设的方针。下列关于科学立法的说法错误的是（    ）。",
+    "type": "single",
+    "options": [
+      {
+        "key": "A",
+        "content": "科学立法是保证立法质量的基础",
+        "_id": {
+          "$oid": "6846c3cef675df8bcda8a5a5"
+        }
+      },
+      {
+        "key": "B",
+        "content": "推进科学立法的前提是加强法的实施",
+        "_id": {
+          "$oid": "6846c3cef675df8bcda8a5a6"
+        }
+      },
+      {
+        "key": "C",
+        "content": "科学立法有利于促进良法善治的整体性目标",
+        "_id": {
+          "$oid": "6846c3cef675df8bcda8a5a7"
+        }
+      },
+      {
+        "key": "D",
+        "content": "科学立法是破解立法领域突出问题的关键所在",
+        "_id": {
+          "$oid": "6846c3cef675df8bcda8a5a8"
+        }
+      }
+    ],
+    "correctAnswer": [
+      "B"
+    ],
+    "explanation": "推进科学立法的前提是加强立法调研和论证，而不是加强法的实施。",
+    "difficulty": "medium",
+    "subject": "gongji",
+    "module": "law",
+    "subModule": "",
+    "tags": [
+      "科学立法"
+    ],
+    "order": 4,
+    "isActive": true,
+    "stats": {
+      "totalAttempts": 0,
+      "correctAttempts": 0,
+      "accuracy": 0
+    },
+    "createdAt": {
+      "$date": "2025-06-09T11:21:50.114772+08:00"
+    },
+    "updatedAt": {
+      "$date": "2025-06-09T11:21:50.114775+08:00"
+    },
+    "_id": {
+      "$oid": "6846c3cef675df8bcda8a5a4"
+    }
+  },
+  {
+    "title": "法律刷题课",
+    "content": "社会主义民主和社会主义法制的相互关系是（ ）。",
+    "type": "multiple",
+    "options": [
+      {
+        "key": "A",
+        "content": "前者是后者的前提和基础",
+        "_id": {
+          "$oid": "6846c3cef675df8bcda8a5aa"
+        }
+      },
+      {
+        "key": "B",
+        "content": "后者是前者的体现和保障",
+        "_id": {
+          "$oid": "6846c3cef675df8bcda8a5ab"
+        }
+      },
+      {
+        "key": "C",
+        "content": "前者为后者服务，服从后者",
+        "_id": {
+          "$oid": "6846c3cef675df8bcda8a5ac"
+        }
+      },
+      {
+        "key": "D",
+        "content": "后者是固定的永恒的，前者是发展的",
+        "_id": {
+          "$oid": "6846c3cef675df8bcda8a5ad"
+        }
+      }
+    ],
+    "correctAnswer": [
+      "A",
+      "B"
+    ],
+    "explanation": "社会主义民主是社会主义法制的前提和基础，社会主义法制是社会主义民主的体现和保障。",
+    "difficulty": "medium",
+    "subject": "gongji",
+    "module": "law",
+    "subModule": "",
+    "tags": [
+      "社会主义民主"
+    ],
+    "order": 5,
+    "isActive": true,
+    "stats": {
+      "totalAttempts": 0,
+      "correctAttempts": 0,
+      "accuracy": 0
+    },
+    "createdAt": {
+      "$date": "2025-06-09T11:21:50.114790+08:00"
+    },
+    "updatedAt": {
+      "$date": "2025-06-09T11:21:50.114793+08:00"
+    },
+    "_id": {
+      "$oid": "6846c3cef675df8bcda8a5a9"
+    }
+  },
+  {
+    "title": "法律刷题课",
+    "content": "法治国家的基本内容包括（ ）",
+    "type": "multiple",
+    "options": [
+      {
+        "key": "A",
+        "content": "法律具有极大的权威性",
+        "_id": {
+          "$oid": "6846c3cef675df8bcda8a5af"
+        }
+      },
+      {
+        "key": "B",
+        "content": "具有健全的法律运行机制",
+        "_id": {
+          "$oid": "6846c3cef675df8bcda8a5b0"
+        }
+      },
+      {
+        "key": "C",
+        "content": "公民具有良好的法律意识",
+        "_id": {
+          "$oid": "6846c3cef675df8bcda8a5b1"
+        }
+      },
+      {
+        "key": "D",
+        "content": "权利保障与权力制约相统一",
+        "_id": {
+          "$oid": "6846c3cef675df8bcda8a5b2"
+        }
+      }
+    ],
+    "correctAnswer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "法治国家的基本内容包括法律具有极大的权威性、健全的法律运行机制、公民具有良好的法律意识以及权利保障与权力制约相统一。",
+    "difficulty": "medium",
+    "subject": "gongji",
+    "module": "law",
+    "subModule": "",
+    "tags": [
+      "法治国家"
+    ],
+    "order": 6,
+    "isActive": true,
+    "stats": {
+      "totalAttempts": 0,
+      "correctAttempts": 0,
+      "accuracy": 0
+    },
+    "createdAt": {
+      "$date": "2025-06-09T11:21:50.114811+08:00"
+    },
+    "updatedAt": {
+      "$date": "2025-06-09T11:21:50.114813+08:00"
+    },
+    "_id": {
+      "$oid": "6846c3cef675df8bcda8a5ae"
+    }
+  },
+  {
+    "title": "法律刷题课",
+    "content": "司法解释是国家最高司法机关在适用法律过程中对具体应用法律问题所作的解释，包括（ ）。",
+    "type": "multiple",
+    "options": [
+      {
+        "key": "A",
+        "content": "检察解释",
+        "_id": {
+          "$oid": "6846c3cef675df8bcda8a5b4"
+        }
+      },
+      {
+        "key": "B",
+        "content": "立法解释",
+        "_id": {
+          "$oid": "6846c3cef675df8bcda8a5b5"
+        }
+      },
+      {
+        "key": "C",
+        "content": "审判解释",
+        "_id": {
+          "$oid": "6846c3cef675df8bcda8a5b6"
+        }
+      },
+      {
+        "key": "D",
+        "content": "行政解释",
+        "_id": {
+          "$oid": "6846c3cef675df8bcda8a5b7"
+        }
+      }
+    ],
+    "correctAnswer": [
+      "A",
+      "C"
+    ],
+    "explanation": "司法解释包括检察解释和审判解释，由最高人民检察院和最高人民法院作出。",
+    "difficulty": "medium",
+    "subject": "gongji",
+    "module": "law",
+    "subModule": "",
+    "tags": [
+      "司法解释"
+    ],
+    "order": 7,
+    "isActive": true,
+    "stats": {
+      "totalAttempts": 0,
+      "correctAttempts": 0,
+      "accuracy": 0
+    },
+    "createdAt": {
+      "$date": "2025-06-09T11:21:50.114841+08:00"
+    },
+    "updatedAt": {
+      "$date": "2025-06-09T11:21:50.114844+08:00"
+    },
+    "_id": {
+      "$oid": "6846c3cef675df8bcda8a5b3"
+    }
+  },
+  {
+    "title": "法律刷题课",
+    "content": "维护社会公平正义的最后一道防线是（",
+    "type": "single",
+    "options": [
+      {
+        "key": "A",
+        "content": "科学守法",
+        "_id": {
+          "$oid": "6846c3cef675df8bcda8a5b9"
+        }
+      },
+      {
+        "key": "B",
+        "content": "认真学法",
+        "_id": {
+          "$oid": "6846c3cef675df8bcda8a5ba"
+        }
+      },
+      {
+        "key": "C",
+        "content": "公正司法",
+        "_id": {
+          "$oid": "6846c3cef675df8bcda8a5bb"
+        }
+      },
+      {
+        "key": "D",
+        "content": "严格守法",
+        "_id": {
+          "$oid": "6846c3cef675df8bcda8a5bc"
+        }
+      }
+    ],
+    "correctAnswer": [
+      "C"
+    ],
+    "explanation": "公正司法是维护社会公平正义的最后一道防线。",
+    "difficulty": "medium",
+    "subject": "gongji",
+    "module": "law",
+    "subModule": "",
+    "tags": [
+      "公平正义"
+    ],
+    "order": 8,
+    "isActive": true,
+    "stats": {
+      "totalAttempts": 0,
+      "correctAttempts": 0,
+      "accuracy": 0
+    },
+    "createdAt": {
+      "$date": "2025-06-09T11:21:50.114861+08:00"
+    },
+    "updatedAt": {
+      "$date": "2025-06-09T11:21:50.114864+08:00"
+    },
+    "_id": {
+      "$oid": "6846c3cef675df8bcda8a5b8"
+    }
+  },
+  {
+    "title": "法律刷题课",
+    "content": "生物科技和医疗技术的不断发展，使器官移植成为延续人的生命的一种手段。近年来，我国一些专家呼吁对器官移植进行立法，对器官捐献和移植进行规范。对此，下列哪种说法是正确的（    ）。",
+    "type": "single",
+    "options": [
+      {
+        "key": "A",
+        "content": "科技作为第一生产力，其发展、变化能够直接改变法律",
+        "_id": {
+          "$oid": "6846c3cef675df8bcda8a5be"
+        }
+      },
+      {
+        "key": "B",
+        "content": "法律的发展和变化也能够直接影响和改变科技的发展",
+        "_id": {
+          "$oid": "6846c3cef675df8bcda8a5bf"
+        }
+      },
+      {
+        "key": "C",
+        "content": "法律既能促进科技发展，也能抑制科技发展所导致的不良后果",
+        "_id": {
+          "$oid": "6846c3cef675df8bcda8a5c0"
+        }
+      },
+      {
+        "key": "D",
+        "content": "科技立法具有国际性和普适性，可以不考虑具体国家的伦理道德和风俗习惯",
+        "_id": {
+          "$oid": "6846c3cef675df8bcda8a5c1"
+        }
+      }
+    ],
+    "correctAnswer": [
+      "C"
+    ],
+    "explanation": "法律既能促进科技发展，也能抑制科技发展所导致的不良后果。",
+    "difficulty": "medium",
+    "subject": "gongji",
+    "module": "law",
+    "subModule": "",
+    "tags": [
+      "科技立法"
+    ],
+    "order": 9,
+    "isActive": true,
+    "stats": {
+      "totalAttempts": 0,
+      "correctAttempts": 0,
+      "accuracy": 0
+    },
+    "createdAt": {
+      "$date": "2025-06-09T11:21:50.114881+08:00"
+    },
+    "updatedAt": {
+      "$date": "2025-06-09T11:21:50.114883+08:00"
+    },
+    "_id": {
+      "$oid": "6846c3cef675df8bcda8a5bd"
+    }
+  },
+  {
+    "title": "法律刷题课",
+    "content": "“天下之事，不难于立法，而难于法之必行。”这说明能否做到依法治国，关键在于（ ）。",
+    "type": "single",
+    "options": [
+      {
+        "key": "A",
+        "content": "国家能否完善立法体制，深入推进科学立法、民主立法",
+        "_id": {
+          "$oid": "6846c3cef675df8bcda8a5c3"
+        }
+      },
+      {
+        "key": "B",
+        "content": "党员能否严格遵守党章等党规，对自己提出更高的要求",
+        "_id": {
+          "$oid": "6846c3cef675df8bcda8a5c4"
+        }
+      },
+      {
+        "key": "C",
+        "content": "全社会能否树立法律权威，认识到法律是保障自身权利的有力武器",
+        "_id": {
+          "$oid": "6846c3cef675df8bcda8a5c5"
+        }
+      },
+      {
+        "key": "D",
+        "content": "党能否坚持依法执政，各级政府能否依法行政",
+        "_id": {
+          "$oid": "6846c3cef675df8bcda8a5c6"
+        }
+      }
+    ],
+    "correctAnswer": [
+      "D"
+    ],
+    "explanation": "依法治国关键在于党能否坚持依法执政，各级政府能否依法行政。",
+    "difficulty": "medium",
+    "subject": "gongji",
+    "module": "law",
+    "subModule": "",
+    "tags": [
+      "依法治国"
+    ],
+    "order": 10,
+    "isActive": true,
+    "stats": {
+      "totalAttempts": 0,
+      "correctAttempts": 0,
+      "accuracy": 0
+    },
+    "createdAt": {
+      "$date": "2025-06-09T11:21:50.114894+08:00"
+    },
+    "updatedAt": {
+      "$date": "2025-06-09T11:21:50.114897+08:00"
+    },
+    "_id": {
+      "$oid": "6846c3cef675df8bcda8a5c2"
+    }
+  },
+  {
+    "title": "法律刷题课",
+    "content": "对于承担法律责任问题，下列说法中错误的是（ ）。",
+    "type": "single",
+    "options": [
+      {
+        "key": "A",
+        "content": "法律责任是实施法律制裁的依据",
+        "_id": {
+          "$oid": "6846c3cef675df8bcda8a5c8"
+        }
+      },
+      {
+        "key": "B",
+        "content": "违法行为不是承担法律责任的唯一根源",
+        "_id": {
+          "$oid": "6846c3cef675df8bcda8a5c9"
+        }
+      },
+      {
+        "key": "C",
+        "content": "承担法律责任就要接受法律制裁",
+        "_id": {
+          "$oid": "6846c3cef675df8bcda8a5ca"
+        }
+      },
+      {
+        "key": "D",
+        "content": "未达到法定责任年龄是免除法律责任的条件之一",
+        "_id": {
+          "$oid": "6846c3cef675df8bcda8a5cb"
+        }
+      }
+    ],
+    "correctAnswer": [
+      "C"
+    ],
+    "explanation": "承担法律责任并不一定意味着接受法律制裁，如民事责任可以通过赔偿等方式承担。",
+    "difficulty": "medium",
+    "subject": "gongji",
+    "module": "law",
+    "subModule": "",
+    "tags": [
+      "法律责任"
+    ],
+    "order": 11,
+    "isActive": true,
+    "stats": {
+      "totalAttempts": 0,
+      "correctAttempts": 0,
+      "accuracy": 0
+    },
+    "createdAt": {
+      "$date": "2025-06-09T11:21:50.114910+08:00"
+    },
+    "updatedAt": {
+      "$date": "2025-06-09T11:21:50.114913+08:00"
+    },
+    "_id": {
+      "$oid": "6846c3cef675df8bcda8a5c7"
+    }
+  },
+  {
+    "title": "法律刷题课",
+    "content": "下列关于法与道德关系的表述，错误的是（ ）。",
+    "type": "multiple",
+    "options": [
+      {
+        "key": "A",
+        "content": "法律是传播道德的有效手段",
+        "_id": {
+          "$oid": "6846c3cef675df8bcda8a5cd"
+        }
+      },
+      {
+        "key": "B",
+        "content": "道德是法律的评价标准和推动力量",
+        "_id": {
+          "$oid": "6846c3cef675df8bcda8a5ce"
+        }
+      },
+      {
+        "key": "C",
+        "content": "法律具有阶级性，而道德则不具有阶级性",
+        "_id": {
+          "$oid": "6846c3cef675df8bcda8a5cf"
+        }
+      },
+      {
+        "key": "D",
+        "content": "道德只有上升为法律，才能通过制裁的方法获得推行",
+        "_id": {
+          "$oid": "6846c3cef675df8bcda8a5d0"
+        }
+      }
+    ],
+    "correctAnswer": [
+      "C",
+      "D"
+    ],
+    "explanation": "道德也具有阶级性，且道德并不需要上升为法律才能通过制裁的方法获得推行。",
+    "difficulty": "medium",
+    "subject": "gongji",
+    "module": "law",
+    "subModule": "",
+    "tags": [
+      "法与道德"
+    ],
+    "order": 12,
+    "isActive": true,
+    "stats": {
+      "totalAttempts": 0,
+      "correctAttempts": 0,
+      "accuracy": 0
+    },
+    "createdAt": {
+      "$date": "2025-06-09T11:21:50.114926+08:00"
+    },
+    "updatedAt": {
+      "$date": "2025-06-09T11:21:50.114929+08:00"
+    },
+    "_id": {
+      "$oid": "6846c3cef675df8bcda8a5cc"
+    }
+  },
+  {
+    "title": "法律刷题课",
+    "content": "（ ）原则是国际法的基石。",
+    "type": "single",
+    "options": [
+      {
+        "key": "A",
+        "content": "国际秩序",
+        "_id": {
+          "$oid": "6846c3cef675df8bcda8a5d2"
+        }
+      },
+      {
+        "key": "B",
+        "content": "国际正义",
+        "_id": {
+          "$oid": "6846c3cef675df8bcda8a5d3"
+        }
+      },
+      {
+        "key": "C",
+        "content": "国家利益",
+        "_id": {
+          "$oid": "6846c3cef675df8bcda8a5d4"
+        }
+      },
+      {
+        "key": "D",
+        "content": "国家主权",
+        "_id": {
+          "$oid": "6846c3cef675df8bcda8a5d5"
+        }
+      }
+    ],
+    "correctAnswer": [
+      "D"
+    ],
+    "explanation": "国家主权原则是国际法的基石。",
+    "difficulty": "medium",
+    "subject": "gongji",
+    "module": "law",
+    "subModule": "",
+    "tags": [
+      "国际法"
+    ],
+    "order": 13,
+    "isActive": true,
+    "stats": {
+      "totalAttempts": 0,
+      "correctAttempts": 0,
+      "accuracy": 0
+    },
+    "createdAt": {
+      "$date": "2025-06-09T11:21:50.114942+08:00"
+    },
+    "updatedAt": {
+      "$date": "2025-06-09T11:21:50.114945+08:00"
+    },
+    "_id": {
+      "$oid": "6846c3cef675df8bcda8a5d1"
+    }
+  },
+  {
+    "title": "法律刷题课",
+    "content": "把法划分为公法和私法的法系是（",
+    "type": "single",
+    "options": [
+      {
+        "key": "A",
+        "content": "普通法系",
+        "_id": {
+          "$oid": "6846c3cef675df8bcda8a5d7"
+        }
+      },
+      {
+        "key": "B",
+        "content": "伊斯兰法系",
+        "_id": {
+          "$oid": "6846c3cef675df8bcda8a5d8"
+        }
+      },
+      {
+        "key": "C",
+        "content": "大陆法系",
+        "_id": {
+          "$oid": "6846c3cef675df8bcda8a5d9"
+        }
+      },
+      {
+        "key": "D",
+        "content": "英美法系",
+        "_id": {
+          "$oid": "6846c3cef675df8bcda8a5da"
+        }
+      }
+    ],
+    "correctAnswer": [
+      "C"
+    ],
+    "explanation": "大陆法系将法划分为公法和私法。",
+    "difficulty": "medium",
+    "subject": "gongji",
+    "module": "law",
+    "subModule": "",
+    "tags": [
+      "法系"
+    ],
+    "order": 14,
+    "isActive": true,
+    "stats": {
+      "totalAttempts": 0,
+      "correctAttempts": 0,
+      "accuracy": 0
+    },
+    "createdAt": {
+      "$date": "2025-06-09T11:21:50.114958+08:00"
+    },
+    "updatedAt": {
+      "$date": "2025-06-09T11:21:50.114961+08:00"
+    },
+    "_id": {
+      "$oid": "6846c3cef675df8bcda8a5d6"
+    }
+  },
+  {
+    "title": "法律刷题课",
+    "content": "新中国成立后制定的第一部基本法律是（ ）。",
+    "type": "single",
+    "options": [
+      {
+        "key": "A",
+        "content": "《中华人民共和国义务教育法》",
+        "_id": {
+          "$oid": "6846c3cef675df8bcda8a5dc"
+        }
+      },
+      {
+        "key": "B",
+        "content": "《中华人民共和国婚姻法》",
+        "_id": {
+          "$oid": "6846c3cef675df8bcda8a5dd"
+        }
+      },
+      {
+        "key": "C",
+        "content": "《中华人民共和国环境保护法》",
+        "_id": {
+          "$oid": "6846c3cef675df8bcda8a5de"
+        }
+      },
+      {
+        "key": "D",
+        "content": "《中华人民共和国宪法》",
+        "_id": {
+          "$oid": "6846c3cef675df8bcda8a5df"
+        }
+      }
+    ],
+    "correctAnswer": [
+      "B"
+    ],
+    "explanation": "新中国成立后制定的第一部基本法律是《中华人民共和国婚姻法》。",
+    "difficulty": "medium",
+    "subject": "gongji",
+    "module": "law",
+    "subModule": "",
+    "tags": [
+      "基本法律"
+    ],
+    "order": 15,
+    "isActive": true,
+    "stats": {
+      "totalAttempts": 0,
+      "correctAttempts": 0,
+      "accuracy": 0
+    },
+    "createdAt": {
+      "$date": "2025-06-09T11:21:50.114977+08:00"
+    },
+    "updatedAt": {
+      "$date": "2025-06-09T11:21:50.114979+08:00"
+    },
+    "_id": {
+      "$oid": "6846c3cef675df8bcda8a5db"
+    }
+  },
+  {
+    "title": "法律刷题课",
+    "content": "依法治国的主体是（",
+    "type": "single",
+    "options": [
+      {
+        "key": "A",
+        "content": "党中央",
+        "_id": {
+          "$oid": "6846c3cef675df8bcda8a5e1"
+        }
+      },
+      {
+        "key": "B",
+        "content": "国务院",
+        "_id": {
+          "$oid": "6846c3cef675df8bcda8a5e2"
+        }
+      },
+      {
+        "key": "C",
+        "content": "全国人民代表大会",
+        "_id": {
+          "$oid": "6846c3cef675df8bcda8a5e3"
+        }
+      },
+      {
+        "key": "D",
+        "content": "广大人民群众",
+        "_id": {
+          "$oid": "6846c3cef675df8bcda8a5e4"
+        }
+      }
+    ],
+    "correctAnswer": [
+      "D"
+    ],
+    "explanation": "依法治国的主体是广大人民群众。",
+    "difficulty": "medium",
+    "subject": "gongji",
+    "module": "law",
+    "subModule": "",
+    "tags": [
+      "依法治国"
+    ],
+    "order": 16,
+    "isActive": true,
+    "stats": {
+      "totalAttempts": 0,
+      "correctAttempts": 0,
+      "accuracy": 0
+    },
+    "createdAt": {
+      "$date": "2025-06-09T11:21:50.114993+08:00"
+    },
+    "updatedAt": {
+      "$date": "2025-06-09T11:21:50.114995+08:00"
+    },
+    "_id": {
+      "$oid": "6846c3cef675df8bcda8a5e0"
+    }
+  },
+  {
+    "title": "法律刷题课",
+    "content": "关于我国法律规定的“司法机关依法独立行使职权原则”的含义，下列说法正确的是（    ）。",
+    "type": "multiple",
+    "options": [
+      {
+        "key": "A",
+        "content": "司法权只能由人民法院独立行使",
+        "_id": {
+          "$oid": "6846c3cef675df8bcda8a5e6"
+        }
+      },
+      {
+        "key": "B",
+        "content": "司法机关独立行使职权，拥有无限的自由裁量权",
+        "_id": {
+          "$oid": "6846c3cef675df8bcda8a5e7"
+        }
+      },
+      {
+        "key": "C",
+        "content": "行政机关、社会团体和个人不得干涉司法活动",
+        "_id": {
+          "$oid": "6846c3cef675df8bcda8a5e8"
+        }
+      },
+      {
+        "key": "D",
+        "content": "司法机关及其工作人员在独立行使职权时不得违反法定程序",
+        "_id": {
+          "$oid": "6846c3cef675df8bcda8a5e9"
+        }
+      }
+    ],
+    "correctAnswer": [
+      "C",
+      "D"
+    ],
+    "explanation": "司法机关依法独立行使职权原则意味着行政机关、社会团体和个人不得干涉司法活动，且司法机关及其工作人员在独立行使职权时不得违反法定程序。",
+    "difficulty": "medium",
+    "subject": "gongji",
+    "module": "law",
+    "subModule": "",
+    "tags": [
+      "司法机关"
+    ],
+    "order": 17,
+    "isActive": true,
+    "stats": {
+      "totalAttempts": 0,
+      "correctAttempts": 0,
+      "accuracy": 0
+    },
+    "createdAt": {
+      "$date": "2025-06-09T11:21:50.115009+08:00"
+    },
+    "updatedAt": {
+      "$date": "2025-06-09T11:21:50.115011+08:00"
+    },
+    "_id": {
+      "$oid": "6846c3cef675df8bcda8a5e5"
+    }
+  },
+  {
+    "title": "法律刷题课",
+    "content": "某基层法院法官李某在审理一起民事案件的过程中，依据自己的专业知识和经验对相关的法律条文进行了一定解释，并依据此解释做出了判决。李某对法律的解释属于（    ）",
+    "type": "single",
+    "options": [
+      {
+        "key": "A",
+        "content": "立法解释",
+        "_id": {
+          "$oid": "6846c3cef675df8bcda8a5eb"
+        }
+      },
+      {
+        "key": "B",
+        "content": "司法解释",
+        "_id": {
+          "$oid": "6846c3cef675df8bcda8a5ec"
+        }
+      },
+      {
+        "key": "C",
+        "content": "行政解释",
+        "_id": {
+          "$oid": "6846c3cef675df8bcda8a5ed"
+        }
+      },
+      {
+        "key": "D",
+        "content": "非正式解释",
+        "_id": {
+          "$oid": "6846c3cef675df8bcda8a5ee"
+        }
+      }
+    ],
+    "correctAnswer": [
+      "D"
+    ],
+    "explanation": "法官在审理案件时对法律条文的解释属于非正式解释。",
+    "difficulty": "medium",
+    "subject": "gongji",
+    "module": "law",
+    "subModule": "",
+    "tags": [
+      "法律解释"
+    ],
+    "order": 18,
+    "isActive": true,
+    "stats": {
+      "totalAttempts": 0,
+      "correctAttempts": 0,
+      "accuracy": 0
+    },
+    "createdAt": {
+      "$date": "2025-06-09T11:21:50.115027+08:00"
+    },
+    "updatedAt": {
+      "$date": "2025-06-09T11:21:50.115030+08:00"
+    },
+    "_id": {
+      "$oid": "6846c3cef675df8bcda8a5ea"
+    }
+  },
+  {
+    "title": "法律刷题课",
+    "content": "下列选项中能够体现依法治国的内涵是（ ）。",
+    "type": "multiple",
+    "options": [
+      {
+        "key": "A",
+        "content": "保障人权",
+        "_id": {
+          "$oid": "6846c3cef675df8bcda8a5f0"
+        }
+      },
+      {
+        "key": "B",
+        "content": "文明执法",
+        "_id": {
+          "$oid": "6846c3cef675df8bcda8a5f1"
+        }
+      },
+      {
+        "key": "C",
+        "content": "人民民主",
+        "_id": {
+          "$oid": "6846c3cef675df8bcda8a5f2"
+        }
+      },
+      {
+        "key": "D",
+        "content": "程序正当",
+        "_id": {
+          "$oid": "6846c3cef675df8bcda8a5f3"
+        }
+      }
+    ],
+    "correctAnswer": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "依法治国的内涵包括保障人权、文明执法和程序正当等。",
+    "difficulty": "medium",
+    "subject": "gongji",
+    "module": "law",
+    "subModule": "",
+    "tags": [
+      "依法治国"
+    ],
+    "order": 19,
+    "isActive": true,
+    "stats": {
+      "totalAttempts": 0,
+      "correctAttempts": 0,
+      "accuracy": 0
+    },
+    "createdAt": {
+      "$date": "2025-06-09T11:21:50.115040+08:00"
+    },
+    "updatedAt": {
+      "$date": "2025-06-09T11:21:50.115043+08:00"
+    },
+    "_id": {
+      "$oid": "6846c3cef675df8bcda8a5ef"
+    }
+  },
+  {
+    "title": "法律刷题课",
+    "content": "21.社会主义法律的基本属性是（ ）。",
+    "type": "single",
+    "options": [
+      {
+        "key": "A",
+        "content": "公平",
+        "_id": {
+          "$oid": "6846c426f675df8bcda8a5f5"
+        }
+      },
+      {
+        "key": "B",
+        "content": "平等",
+        "_id": {
+          "$oid": "6846c426f675df8bcda8a5f6"
+        }
+      },
+      {
+        "key": "C",
+        "content": "正义",
+        "_id": {
+          "$oid": "6846c426f675df8bcda8a5f7"
+        }
+      },
+      {
+        "key": "D",
+        "content": "民主",
+        "_id": {
+          "$oid": "6846c426f675df8bcda8a5f8"
+        }
+      }
+    ],
+    "correctAnswer": [],
+    "difficulty": "medium",
+    "subject": "gongji",
+    "module": "law",
+    "subModule": "",
+    "tags": [
+      "法律"
+    ],
+    "order": 0,
+    "isActive": true,
+    "stats": {
+      "totalAttempts": 0,
+      "correctAttempts": 0,
+      "accuracy": 0
+    },
+    "createdAt": {
+      "$date": "2025-06-09T11:23:18.375603+08:00"
+    },
+    "updatedAt": {
+      "$date": "2025-06-09T11:23:18.375610+08:00"
+    },
+    "_id": {
+      "$oid": "6846c426f675df8bcda8a5f4"
+    },
+    "explanation": ""
+  },
+  {
+    "title": "法律刷题课",
+    "content": "22.老、幼、残等群体在公共交通工具获得优先权和特殊关照体现了我国法律意义上的平等指的是（ ）。",
+    "type": "single",
+    "options": [
+      {
+        "key": "A",
+        "content": "相同情况相同对待",
+        "_id": {
+          "$oid": "6846c426f675df8bcda8a5fa"
+        }
+      },
+      {
+        "key": "B",
+        "content": "在我国允许特殊群体享受特权",
+        "_id": {
+          "$oid": "6846c426f675df8bcda8a5fb"
+        }
+      },
+      {
+        "key": "C",
+        "content": "不同情况差别对待",
+        "_id": {
+          "$oid": "6846c426f675df8bcda8a5fc"
+        }
+      },
+      {
+        "key": "D",
+        "content": "人们在人格和法律地位上不同",
+        "_id": {
+          "$oid": "6846c426f675df8bcda8a5fd"
+        }
+      }
+    ],
+    "correctAnswer": [],
+    "difficulty": "medium",
+    "subject": "gongji",
+    "module": "law",
+    "subModule": "",
+    "tags": [
+      "法律"
+    ],
+    "order": 1,
+    "isActive": true,
+    "stats": {
+      "totalAttempts": 0,
+      "correctAttempts": 0,
+      "accuracy": 0
+    },
+    "createdAt": {
+      "$date": "2025-06-09T11:23:18.375662+08:00"
+    },
+    "updatedAt": {
+      "$date": "2025-06-09T11:23:18.375664+08:00"
+    },
+    "_id": {
+      "$oid": "6846c426f675df8bcda8a5f9"
+    },
+    "explanation": ""
+  },
+  {
+    "title": "法律刷题课",
+    "content": "23.（  ）是民主政治的重要体现，是保持人民在国家中的主人地位、保持人民对政府控制的最后手段。",
+    "type": "single",
+    "options": [
+      {
+        "key": "A",
+        "content": "立法监督",
+        "_id": {
+          "$oid": "6846c426f675df8bcda8a5ff"
+        }
+      },
+      {
+        "key": "B",
+        "content": "社会监督",
+        "_id": {
+          "$oid": "6846c426f675df8bcda8a600"
+        }
+      },
+      {
+        "key": "C",
+        "content": "政党监督",
+        "_id": {
+          "$oid": "6846c426f675df8bcda8a601"
+        }
+      },
+      {
+        "key": "D",
+        "content": "司法监督",
+        "_id": {
+          "$oid": "6846c426f675df8bcda8a602"
+        }
+      }
+    ],
+    "correctAnswer": [],
+    "difficulty": "medium",
+    "subject": "gongji",
+    "module": "law",
+    "subModule": "",
+    "tags": [
+      "法律"
+    ],
+    "order": 2,
+    "isActive": true,
+    "stats": {
+      "totalAttempts": 0,
+      "correctAttempts": 0,
+      "accuracy": 0
+    },
+    "createdAt": {
+      "$date": "2025-06-09T11:23:18.375674+08:00"
+    },
+    "updatedAt": {
+      "$date": "2025-06-09T11:23:18.375676+08:00"
+    },
+    "_id": {
+      "$oid": "6846c426f675df8bcda8a5fe"
+    },
+    "explanation": ""
+  },
+  {
+    "title": "法律刷题课",
+    "content": "24.【多选】下列关于我国行政法规、规章的表述，正确的是（ ）。",
+    "type": "multiple",
+    "options": [
+      {
+        "key": "A",
+        "content": "行政法规的效力低于地方性法规",
+        "_id": {
+          "$oid": "6846c426f675df8bcda8a604"
+        }
+      },
+      {
+        "key": "B",
+        "content": "国务院的各部委可以制定行政规章",
+        "_id": {
+          "$oid": "6846c426f675df8bcda8a605"
+        }
+      },
+      {
+        "key": "C",
+        "content": "行政法规是对法律内容具体化的形式之一",
+        "_id": {
+          "$oid": "6846c426f675df8bcda8a606"
+        }
+      },
+      {
+        "key": "D",
+        "content": "行政法规应当根据宪法和法律制定",
+        "_id": {
+          "$oid": "6846c426f675df8bcda8a607"
+        }
+      }
+    ],
+    "correctAnswer": [],
+    "difficulty": "medium",
+    "subject": "gongji",
+    "module": "law",
+    "subModule": "",
+    "tags": [
+      "法律"
+    ],
+    "order": 3,
+    "isActive": true,
+    "stats": {
+      "totalAttempts": 0,
+      "correctAttempts": 0,
+      "accuracy": 0
+    },
+    "createdAt": {
+      "$date": "2025-06-09T11:23:18.375693+08:00"
+    },
+    "updatedAt": {
+      "$date": "2025-06-09T11:23:18.375695+08:00"
+    },
+    "_id": {
+      "$oid": "6846c426f675df8bcda8a603"
+    },
+    "explanation": ""
+  },
+  {
+    "title": "法律刷题课",
+    "content": "25.刑事诉讼法中规定：“在审判过程中，被告人可拒绝辩护人继续为他辩护，也可另行委托辩护人为其辩护。”这一规定属于（ ）。",
+    "type": "single",
+    "options": [
+      {
+        "key": "A",
+        "content": "义务性规范",
+        "_id": {
+          "$oid": "6846c426f675df8bcda8a609"
+        }
+      },
+      {
+        "key": "B",
+        "content": "准用性规范",
+        "_id": {
+          "$oid": "6846c426f675df8bcda8a60a"
+        }
+      },
+      {
+        "key": "C",
+        "content": "委任性规范",
+        "_id": {
+          "$oid": "6846c426f675df8bcda8a60b"
+        }
+      },
+      {
+        "key": "D",
+        "content": "确定性规范",
+        "_id": {
+          "$oid": "6846c426f675df8bcda8a60c"
+        }
+      }
+    ],
+    "correctAnswer": [],
+    "difficulty": "medium",
+    "subject": "gongji",
+    "module": "law",
+    "subModule": "",
+    "tags": [
+      "法律"
+    ],
+    "order": 4,
+    "isActive": true,
+    "stats": {
+      "totalAttempts": 0,
+      "correctAttempts": 0,
+      "accuracy": 0
+    },
+    "createdAt": {
+      "$date": "2025-06-09T11:23:18.375705+08:00"
+    },
+    "updatedAt": {
+      "$date": "2025-06-09T11:23:18.375706+08:00"
+    },
+    "_id": {
+      "$oid": "6846c426f675df8bcda8a608"
+    },
+    "explanation": ""
+  },
+  {
+    "title": "法律刷题课",
+    "content": "26.甲、乙双方签订了货物买卖合同，由甲方向乙方提供货物。后经甲方同意，乙方将合同中的权利、义务转给丙方。这样法律关系中的（    ）就发生了变更。",
+    "type": "single",
+    "options": [
+      {
+        "key": "A",
+        "content": "主体、客体",
+        "_id": {
+          "$oid": "6846c426f675df8bcda8a60e"
+        }
+      },
+      {
+        "key": "B",
+        "content": "内容",
+        "_id": {
+          "$oid": "6846c426f675df8bcda8a60f"
+        }
+      },
+      {
+        "key": "C",
+        "content": "客体",
+        "_id": {
+          "$oid": "6846c426f675df8bcda8a610"
+        }
+      },
+      {
+        "key": "D",
+        "content": "主体",
+        "_id": {
+          "$oid": "6846c426f675df8bcda8a611"
+        }
+      }
+    ],
+    "correctAnswer": [],
+    "difficulty": "medium",
+    "subject": "gongji",
+    "module": "law",
+    "subModule": "",
+    "tags": [
+      "法律"
+    ],
+    "order": 5,
+    "isActive": true,
+    "stats": {
+      "totalAttempts": 0,
+      "correctAttempts": 0,
+      "accuracy": 0
+    },
+    "createdAt": {
+      "$date": "2025-06-09T11:23:18.375714+08:00"
+    },
+    "updatedAt": {
+      "$date": "2025-06-09T11:23:18.375715+08:00"
+    },
+    "_id": {
+      "$oid": "6846c426f675df8bcda8a60d"
+    },
+    "explanation": ""
+  },
+  {
+    "title": "法律刷题课",
+    "content": "27.法治是指以民主政治与市场经济为基础，以（ ）为核心的一种治理国家的方略。",
+    "type": "single",
+    "options": [
+      {
+        "key": "A",
+        "content": "宪法至上",
+        "_id": {
+          "$oid": "6846c426f675df8bcda8a613"
+        }
+      },
+      {
+        "key": "B",
+        "content": "良法之治",
+        "_id": {
+          "$oid": "6846c426f675df8bcda8a614"
+        }
+      },
+      {
+        "key": "C",
+        "content": "法律至上",
+        "_id": {
+          "$oid": "6846c426f675df8bcda8a615"
+        }
+      },
+      {
+        "key": "D",
+        "content": "宪法精神",
+        "_id": {
+          "$oid": "6846c426f675df8bcda8a616"
+        }
+      }
+    ],
+    "correctAnswer": [],
+    "difficulty": "medium",
+    "subject": "gongji",
+    "module": "law",
+    "subModule": "",
+    "tags": [
+      "法律"
+    ],
+    "order": 6,
+    "isActive": true,
+    "stats": {
+      "totalAttempts": 0,
+      "correctAttempts": 0,
+      "accuracy": 0
+    },
+    "createdAt": {
+      "$date": "2025-06-09T11:23:18.375725+08:00"
+    },
+    "updatedAt": {
+      "$date": "2025-06-09T11:23:18.375727+08:00"
+    },
+    "_id": {
+      "$oid": "6846c426f675df8bcda8a612"
+    },
+    "explanation": ""
+  },
+  {
+    "title": "法律刷题课",
+    "content": "28.【判断】国际公法是中国特色社会主义法律体系的组成部分。（  ）",
+    "type": "single",
+    "options": [
+      {
+        "key": "A",
+        "content": "正确",
+        "_id": {
+          "$oid": "6846c426f675df8bcda8a618"
+        }
+      },
+      {
+        "key": "B",
+        "content": "错误",
+        "_id": {
+          "$oid": "6846c426f675df8bcda8a619"
+        }
+      }
+    ],
+    "correctAnswer": [],
+    "difficulty": "medium",
+    "subject": "gongji",
+    "module": "law",
+    "subModule": "",
+    "tags": [
+      "法律"
+    ],
+    "order": 7,
+    "isActive": true,
+    "stats": {
+      "totalAttempts": 0,
+      "correctAttempts": 0,
+      "accuracy": 0
+    },
+    "createdAt": {
+      "$date": "2025-06-09T11:23:18.375736+08:00"
+    },
+    "updatedAt": {
+      "$date": "2025-06-09T11:23:18.375738+08:00"
+    },
+    "_id": {
+      "$oid": "6846c426f675df8bcda8a617"
+    },
+    "explanation": ""
+  },
+  {
+    "title": "法律刷题课",
+    "content": "29.【判断】自由权是法律权利的核心，是其他权利要素存在的基础。（    ）",
+    "type": "single",
+    "options": [
+      {
+        "key": "A",
+        "content": "正确",
+        "_id": {
+          "$oid": "6846c426f675df8bcda8a61b"
+        }
+      },
+      {
+        "key": "B",
+        "content": "错误",
+        "_id": {
+          "$oid": "6846c426f675df8bcda8a61c"
+        }
+      }
+    ],
+    "correctAnswer": [],
+    "difficulty": "medium",
+    "subject": "gongji",
+    "module": "law",
+    "subModule": "",
+    "tags": [
+      "法律"
+    ],
+    "order": 8,
+    "isActive": true,
+    "stats": {
+      "totalAttempts": 0,
+      "correctAttempts": 0,
+      "accuracy": 0
+    },
+    "createdAt": {
+      "$date": "2025-06-09T11:23:18.375767+08:00"
+    },
+    "updatedAt": {
+      "$date": "2025-06-09T11:23:18.375769+08:00"
+    },
+    "_id": {
+      "$oid": "6846c426f675df8bcda8a61a"
+    },
+    "explanation": ""
+  },
+  {
+    "title": "法律刷题课",
+    "content": "30.马克思说：“民主的国家，法律就是国王；专制的国家，国王就是法律。”下列选项中对这句话理解正确的是（    ）。",
+    "type": "single",
+    "options": [
+      {
+        "key": "A",
+        "content": "实行民主的国家，国王的意志可以上升为法律",
+        "_id": {
+          "$oid": "6846c426f675df8bcda8a61e"
+        }
+      },
+      {
+        "key": "B",
+        "content": "实行专制的国家，同样实行法律至上的原则",
+        "_id": {
+          "$oid": "6846c426f675df8bcda8a61f"
+        }
+      },
+      {
+        "key": "C",
+        "content": "实行民主的国家，国王不可以参与立法",
+        "_id": {
+          "$oid": "6846c426f675df8bcda8a620"
+        }
+      },
+      {
+        "key": "D",
+        "content": "实行专制的国家，国王可以制定法律",
+        "_id": {
+          "$oid": "6846c426f675df8bcda8a621"
+        }
+      }
+    ],
+    "correctAnswer": [],
+    "difficulty": "medium",
+    "subject": "gongji",
+    "module": "law",
+    "subModule": "",
+    "tags": [
+      "法律"
+    ],
+    "order": 9,
+    "isActive": true,
+    "stats": {
+      "totalAttempts": 0,
+      "correctAttempts": 0,
+      "accuracy": 0
+    },
+    "createdAt": {
+      "$date": "2025-06-09T11:23:18.375786+08:00"
+    },
+    "updatedAt": {
+      "$date": "2025-06-09T11:23:18.375787+08:00"
+    },
+    "_id": {
+      "$oid": "6846c426f675df8bcda8a61d"
+    },
+    "explanation": ""
+  },
+  {
+    "title": "法律刷题课",
+    "content": "31.我国社会主义法制的中心环节是（ ）。",
+    "type": "single",
+    "options": [
+      {
+        "key": "A",
+        "content": "有法可依",
+        "_id": {
+          "$oid": "6846c426f675df8bcda8a623"
+        }
+      },
+      {
+        "key": "B",
+        "content": "有法必依",
+        "_id": {
+          "$oid": "6846c426f675df8bcda8a624"
+        }
+      },
+      {
+        "key": "C",
+        "content": "执法必严",
+        "_id": {
+          "$oid": "6846c426f675df8bcda8a625"
+        }
+      },
+      {
+        "key": "D",
+        "content": "违法必究",
+        "_id": {
+          "$oid": "6846c426f675df8bcda8a626"
+        }
+      }
+    ],
+    "correctAnswer": [],
+    "difficulty": "medium",
+    "subject": "gongji",
+    "module": "law",
+    "subModule": "",
+    "tags": [
+      "法律"
+    ],
+    "order": 10,
+    "isActive": true,
+    "stats": {
+      "totalAttempts": 0,
+      "correctAttempts": 0,
+      "accuracy": 0
+    },
+    "createdAt": {
+      "$date": "2025-06-09T11:23:18.375797+08:00"
+    },
+    "updatedAt": {
+      "$date": "2025-06-09T11:23:18.375799+08:00"
+    },
+    "_id": {
+      "$oid": "6846c426f675df8bcda8a622"
+    },
+    "explanation": ""
+  },
+  {
+    "title": "法律刷题课",
+    "content": "32.【多选】习近平法治思想是马克思主义法治理论中国化的最新成果，是习近平新时代中国特色社会主义思想的重要组成部分，是全面依法治国的根本遵循和行动指南。下列选项中属于习近平法治思想主要内涵的有 （    ）。",
+    "type": "multiple",
+    "options": [
+      {
+        "key": "A",
+        "content": "坚持党对全面依法治国的领导",
+        "_id": {
+          "$oid": "6846c426f675df8bcda8a628"
+        }
+      },
+      {
+        "key": "B",
+        "content": "坚持以人民为中心",
+        "_id": {
+          "$oid": "6846c426f675df8bcda8a629"
+        }
+      },
+      {
+        "key": "C",
+        "content": "坚持依宪治国、依宪执政",
+        "_id": {
+          "$oid": "6846c426f675df8bcda8a62a"
+        }
+      },
+      {
+        "key": "D",
+        "content": "坚持统筹推进国内法治和涉外法治",
+        "_id": {
+          "$oid": "6846c426f675df8bcda8a62b"
+        }
+      },
+      {
+        "key": "E",
+        "content": "坚持抓住领导干部这个“关键少数”",
+        "_id": {
+          "$oid": "6846c426f675df8bcda8a62c"
+        }
+      }
+    ],
+    "correctAnswer": [],
+    "difficulty": "medium",
+    "subject": "gongji",
+    "module": "law",
+    "subModule": "",
+    "tags": [
+      "法律"
+    ],
+    "order": 11,
+    "isActive": true,
+    "stats": {
+      "totalAttempts": 0,
+      "correctAttempts": 0,
+      "accuracy": 0
+    },
+    "createdAt": {
+      "$date": "2025-06-09T11:23:18.375806+08:00"
+    },
+    "updatedAt": {
+      "$date": "2025-06-09T11:23:18.375807+08:00"
+    },
+    "_id": {
+      "$oid": "6846c426f675df8bcda8a627"
+    },
+    "explanation": ""
+  },
+  {
+    "title": "法律刷题课",
+    "content": "33.【多选】法律与道德的区别有（ ）",
+    "type": "multiple",
+    "options": [
+      {
+        "key": "A",
+        "content": "产生时间不同",
+        "_id": {
+          "$oid": "6846c426f675df8bcda8a62e"
+        }
+      },
+      {
+        "key": "B",
+        "content": "作用范围不同",
+        "_id": {
+          "$oid": "6846c426f675df8bcda8a62f"
+        }
+      },
+      {
+        "key": "C",
+        "content": "依靠力量不同",
+        "_id": {
+          "$oid": "6846c426f675df8bcda8a630"
+        }
+      },
+      {
+        "key": "D",
+        "content": "阶级属性不同",
+        "_id": {
+          "$oid": "6846c426f675df8bcda8a631"
+        }
+      }
+    ],
+    "correctAnswer": [],
+    "difficulty": "medium",
+    "subject": "gongji",
+    "module": "law",
+    "subModule": "",
+    "tags": [
+      "法律"
+    ],
+    "order": 12,
+    "isActive": true,
+    "stats": {
+      "totalAttempts": 0,
+      "correctAttempts": 0,
+      "accuracy": 0
+    },
+    "createdAt": {
+      "$date": "2025-06-09T11:23:18.375822+08:00"
+    },
+    "updatedAt": {
+      "$date": "2025-06-09T11:23:18.375823+08:00"
+    },
+    "_id": {
+      "$oid": "6846c426f675df8bcda8a62d"
+    },
+    "explanation": ""
+  },
+  {
+    "title": "法律刷题课",
+    "content": "34.有关国家机关按照法定程序，对一定时期和范围内的规范性法律文件进行审查并重新确定其法律效力的活动，称为 （    ）。",
+    "type": "single",
+    "options": [
+      {
+        "key": "A",
+        "content": "法律编纂",
+        "_id": {
+          "$oid": "6846c426f675df8bcda8a633"
+        }
+      },
+      {
+        "key": "B",
+        "content": "法律制定",
+        "_id": {
+          "$oid": "6846c426f675df8bcda8a634"
+        }
+      },
+      {
+        "key": "C",
+        "content": "法律整理",
+        "_id": {
+          "$oid": "6846c426f675df8bcda8a635"
+        }
+      },
+      {
+        "key": "D",
+        "content": "法律汇编",
+        "_id": {
+          "$oid": "6846c426f675df8bcda8a636"
+        }
+      }
+    ],
+    "correctAnswer": [],
+    "difficulty": "medium",
+    "subject": "gongji",
+    "module": "law",
+    "subModule": "",
+    "tags": [
+      "法律"
+    ],
+    "order": 13,
+    "isActive": true,
+    "stats": {
+      "totalAttempts": 0,
+      "correctAttempts": 0,
+      "accuracy": 0
+    },
+    "createdAt": {
+      "$date": "2025-06-09T11:23:18.375908+08:00"
+    },
+    "updatedAt": {
+      "$date": "2025-06-09T11:23:18.375910+08:00"
+    },
+    "_id": {
+      "$oid": "6846c426f675df8bcda8a632"
+    },
+    "explanation": ""
+  },
+  {
+    "title": "法律刷题课",
+    "content": "35.【多选】下列选项正确的是（",
+    "type": "multiple",
+    "options": [
+      {
+        "key": "A",
+        "content": "有国家就有法制",
+        "_id": {
+          "$oid": "6846c426f675df8bcda8a638"
+        }
+      },
+      {
+        "key": "B",
+        "content": "有国家就有法治",
+        "_id": {
+          "$oid": "6846c426f675df8bcda8a639"
+        }
+      },
+      {
+        "key": "C",
+        "content": "有法制就有法治",
+        "_id": {
+          "$oid": "6846c426f675df8bcda8a63a"
+        }
+      },
+      {
+        "key": "D",
+        "content": "有法制不一定有法治",
+        "_id": {
+          "$oid": "6846c426f675df8bcda8a63b"
+        }
+      }
+    ],
+    "correctAnswer": [],
+    "difficulty": "medium",
+    "subject": "gongji",
+    "module": "law",
+    "subModule": "",
+    "tags": [
+      "法律"
+    ],
+    "order": 14,
+    "isActive": true,
+    "stats": {
+      "totalAttempts": 0,
+      "correctAttempts": 0,
+      "accuracy": 0
+    },
+    "createdAt": {
+      "$date": "2025-06-09T11:23:18.375922+08:00"
+    },
+    "updatedAt": {
+      "$date": "2025-06-09T11:23:18.375924+08:00"
+    },
+    "_id": {
+      "$oid": "6846c426f675df8bcda8a637"
+    },
+    "explanation": ""
+  },
+  {
+    "title": "法律刷题课",
+    "content": "36.【多选】国家创制法律规范的方式主要有（",
+    "type": "multiple",
+    "options": [
+      {
+        "key": "A",
+        "content": "制定",
+        "_id": {
+          "$oid": "6846c426f675df8bcda8a63d"
+        }
+      },
+      {
+        "key": "B",
+        "content": "认可",
+        "_id": {
+          "$oid": "6846c426f675df8bcda8a63e"
+        }
+      },
+      {
+        "key": "C",
+        "content": "法理",
+        "_id": {
+          "$oid": "6846c426f675df8bcda8a63f"
+        }
+      },
+      {
+        "key": "D",
+        "content": "法学家著作",
+        "_id": {
+          "$oid": "6846c426f675df8bcda8a640"
+        }
+      }
+    ],
+    "correctAnswer": [],
+    "difficulty": "medium",
+    "subject": "gongji",
+    "module": "law",
+    "subModule": "",
+    "tags": [
+      "法律"
+    ],
+    "order": 15,
+    "isActive": true,
+    "stats": {
+      "totalAttempts": 0,
+      "correctAttempts": 0,
+      "accuracy": 0
+    },
+    "createdAt": {
+      "$date": "2025-06-09T11:23:18.375933+08:00"
+    },
+    "updatedAt": {
+      "$date": "2025-06-09T11:23:18.375934+08:00"
+    },
+    "_id": {
+      "$oid": "6846c426f675df8bcda8a63c"
+    },
+    "explanation": ""
+  },
+  {
+    "title": "法律刷题课",
+    "content": "37.【多选】法在执行社会公共事务中的作用主要有（ ）。",
+    "type": "multiple",
+    "options": [
+      {
+        "key": "A",
+        "content": "决定生产关系的性质",
+        "_id": {
+          "$oid": "6846c426f675df8bcda8a642"
+        }
+      },
+      {
+        "key": "B",
+        "content": "维护人类社会基本生活条件",
+        "_id": {
+          "$oid": "6846c426f675df8bcda8a643"
+        }
+      },
+      {
+        "key": "C",
+        "content": "组织社会化大生产",
+        "_id": {
+          "$oid": "6846c426f675df8bcda8a644"
+        }
+      },
+      {
+        "key": "D",
+        "content": "维护社会和交换的秩序",
+        "_id": {
+          "$oid": "6846c426f675df8bcda8a645"
+        }
+      }
+    ],
+    "correctAnswer": [],
+    "difficulty": "medium",
+    "subject": "gongji",
+    "module": "law",
+    "subModule": "",
+    "tags": [
+      "法律"
+    ],
+    "order": 16,
+    "isActive": true,
+    "stats": {
+      "totalAttempts": 0,
+      "correctAttempts": 0,
+      "accuracy": 0
+    },
+    "createdAt": {
+      "$date": "2025-06-09T11:23:18.375941+08:00"
+    },
+    "updatedAt": {
+      "$date": "2025-06-09T11:23:18.375943+08:00"
+    },
+    "_id": {
+      "$oid": "6846c426f675df8bcda8a641"
+    },
+    "explanation": ""
+  },
+  {
+    "title": "法律刷题课",
+    "content": "38.在我国的法律监督体系中，从国务院到地方各级人民政府的法律监督是（   ）。",
+    "type": "single",
+    "options": [
+      {
+        "key": "A",
+        "content": "社会的监督",
+        "_id": {
+          "$oid": "6846c426f675df8bcda8a647"
+        }
+      },
+      {
+        "key": "B",
+        "content": "国家权力机关的监督",
+        "_id": {
+          "$oid": "6846c426f675df8bcda8a648"
+        }
+      },
+      {
+        "key": "C",
+        "content": "国家行政机关的监督",
+        "_id": {
+          "$oid": "6846c426f675df8bcda8a649"
+        }
+      },
+      {
+        "key": "D",
+        "content": "国家司法机关的监督",
+        "_id": {
+          "$oid": "6846c426f675df8bcda8a64a"
+        }
+      }
+    ],
+    "correctAnswer": [],
+    "difficulty": "medium",
+    "subject": "gongji",
+    "module": "law",
+    "subModule": "",
+    "tags": [
+      "法律"
+    ],
+    "order": 17,
+    "isActive": true,
+    "stats": {
+      "totalAttempts": 0,
+      "correctAttempts": 0,
+      "accuracy": 0
+    },
+    "createdAt": {
+      "$date": "2025-06-09T11:23:18.375952+08:00"
+    },
+    "updatedAt": {
+      "$date": "2025-06-09T11:23:18.375953+08:00"
+    },
+    "_id": {
+      "$oid": "6846c426f675df8bcda8a646"
+    },
+    "explanation": ""
+  },
+  {
+    "title": "法律刷题课",
+    "content": "39.法律运行的起始性和关键性环节是（ ）。",
+    "type": "single",
+    "options": [
+      {
+        "key": "A",
+        "content": "法律执行",
+        "_id": {
+          "$oid": "6846c426f675df8bcda8a64c"
+        }
+      },
+      {
+        "key": "B",
+        "content": "法律适用",
+        "_id": {
+          "$oid": "6846c426f675df8bcda8a64d"
+        }
+      },
+      {
+        "key": "C",
+        "content": "法律制定",
+        "_id": {
+          "$oid": "6846c426f675df8bcda8a64e"
+        }
+      },
+      {
+        "key": "D",
+        "content": "法律遵守",
+        "_id": {
+          "$oid": "6846c426f675df8bcda8a64f"
+        }
+      }
+    ],
+    "correctAnswer": [],
+    "difficulty": "medium",
+    "subject": "gongji",
+    "module": "law",
+    "subModule": "",
+    "tags": [
+      "法律"
+    ],
+    "order": 18,
+    "isActive": true,
+    "stats": {
+      "totalAttempts": 0,
+      "correctAttempts": 0,
+      "accuracy": 0
+    },
+    "createdAt": {
+      "$date": "2025-06-09T11:23:18.375967+08:00"
+    },
+    "updatedAt": {
+      "$date": "2025-06-09T11:23:18.375969+08:00"
+    },
+    "_id": {
+      "$oid": "6846c426f675df8bcda8a64b"
+    },
+    "explanation": ""
+  },
+  {
+    "title": "法律刷题课",
+    "content": "40.下列关于法律效力的表述能够成立的是（ ）。",
+    "type": "single",
+    "options": [
+      {
+        "key": "A",
+        "content": "法律应使人知晓，不知者不为罪",
+        "_id": {
+          "$oid": "6846c426f675df8bcda8a651"
+        }
+      },
+      {
+        "key": "B",
+        "content": "法律不经公布，就不具有效力",
+        "_id": {
+          "$oid": "6846c426f675df8bcda8a652"
+        }
+      },
+      {
+        "key": "C",
+        "content": "在现代社会，法律完全不具有溯及力",
+        "_id": {
+          "$oid": "6846c426f675df8bcda8a653"
+        }
+      },
+      {
+        "key": "D",
+        "content": "法律效力高低取决于它的强制性程度",
+        "_id": {
+          "$oid": "6846c426f675df8bcda8a654"
+        }
+      }
+    ],
+    "correctAnswer": [],
+    "difficulty": "medium",
+    "subject": "gongji",
+    "module": "law",
+    "subModule": "",
+    "tags": [
+      "法律"
+    ],
+    "order": 19,
+    "isActive": true,
+    "stats": {
+      "totalAttempts": 0,
+      "correctAttempts": 0,
+      "accuracy": 0
+    },
+    "createdAt": {
+      "$date": "2025-06-09T11:23:18.375976+08:00"
+    },
+    "updatedAt": {
+      "$date": "2025-06-09T11:23:18.375977+08:00"
+    },
+    "_id": {
+      "$oid": "6846c426f675df8bcda8a650"
+    },
+    "explanation": ""
+  },
+  {
+    "title": "法律刷题课",
+    "content": "41.【判断】马克思主义法学认为，法不是从来就有的，也不是永远存在的。（ ）",
+    "type": "single",
+    "options": [
+      {
+        "key": "A",
+        "content": "正确",
+        "_id": {
+          "$oid": "6846c426f675df8bcda8a656"
+        }
+      },
+      {
+        "key": "B",
+        "content": "错误",
+        "_id": {
+          "$oid": "6846c426f675df8bcda8a657"
+        }
+      }
+    ],
+    "correctAnswer": [],
+    "difficulty": "medium",
+    "subject": "gongji",
+    "module": "law",
+    "subModule": "",
+    "tags": [
+      "法律"
+    ],
+    "order": 20,
+    "isActive": true,
+    "stats": {
+      "totalAttempts": 0,
+      "correctAttempts": 0,
+      "accuracy": 0
+    },
+    "createdAt": {
+      "$date": "2025-06-09T11:23:18.375984+08:00"
+    },
+    "updatedAt": {
+      "$date": "2025-06-09T11:23:18.375986+08:00"
+    },
+    "_id": {
+      "$oid": "6846c426f675df8bcda8a655"
+    },
+    "explanation": ""
+  },
+  {
+    "title": "法律刷题课",
+    "content": "42.【多选】最高人民法院和最高人民检察院在北京发布了《关于办理环境污染刑事案件适用法律若干问题的解释》。当前环境污染犯罪出现了一些新的情况和问题，如大气污染犯罪取证困难，篡改、伪造自动检测数据和破坏环境质量检测系统的刑事规则存在争议等，为此，《解释》突出了对自动监测数据造假的惩治。上述司法解释（    ）。",
+    "type": "multiple",
+    "options": [
+      {
+        "key": "A",
+        "content": "规范了司法活动",
+        "_id": {
+          "$oid": "6846c426f675df8bcda8a659"
+        }
+      },
+      {
+        "key": "B",
+        "content": "坚持了与时俱进",
+        "_id": {
+          "$oid": "6846c426f675df8bcda8a65a"
+        }
+      },
+      {
+        "key": "C",
+        "content": "树立了立法权威",
+        "_id": {
+          "$oid": "6846c426f675df8bcda8a65b"
+        }
+      },
+      {
+        "key": "D",
+        "content": "坚持了依法行政",
+        "_id": {
+          "$oid": "6846c426f675df8bcda8a65c"
+        }
+      }
+    ],
+    "correctAnswer": [],
+    "difficulty": "medium",
+    "subject": "gongji",
+    "module": "law",
+    "subModule": "",
+    "tags": [
+      "法律"
+    ],
+    "order": 21,
+    "isActive": true,
+    "stats": {
+      "totalAttempts": 0,
+      "correctAttempts": 0,
+      "accuracy": 0
+    },
+    "createdAt": {
+      "$date": "2025-06-09T11:23:18.375999+08:00"
+    },
+    "updatedAt": {
+      "$date": "2025-06-09T11:23:18.376001+08:00"
+    },
+    "_id": {
+      "$oid": "6846c426f675df8bcda8a658"
+    },
+    "explanation": ""
+  },
+  {
+    "title": "法律刷题课",
+    "content": "43.通过事实依据与法律理由推导出法律结论的过程被称为（    ）。",
+    "type": "single",
+    "options": [
+      {
+        "key": "A",
+        "content": "外部证成",
+        "_id": {
+          "$oid": "6846c426f675df8bcda8a65e"
+        }
+      },
+      {
+        "key": "B",
+        "content": "内部证成",
+        "_id": {
+          "$oid": "6846c426f675df8bcda8a65f"
+        }
+      },
+      {
+        "key": "C",
+        "content": "预测性发现",
+        "_id": {
+          "$oid": "6846c426f675df8bcda8a660"
+        }
+      },
+      {
+        "key": "D",
+        "content": "正当性发现",
+        "_id": {
+          "$oid": "6846c426f675df8bcda8a661"
+        }
+      }
+    ],
+    "correctAnswer": [],
+    "difficulty": "medium",
+    "subject": "gongji",
+    "module": "law",
+    "subModule": "",
+    "tags": [
+      "法律"
+    ],
+    "order": 22,
+    "isActive": true,
+    "stats": {
+      "totalAttempts": 0,
+      "correctAttempts": 0,
+      "accuracy": 0
+    },
+    "createdAt": {
+      "$date": "2025-06-09T11:23:18.376013+08:00"
+    },
+    "updatedAt": {
+      "$date": "2025-06-09T11:23:18.376015+08:00"
+    },
+    "_id": {
+      "$oid": "6846c426f675df8bcda8a65d"
+    },
+    "explanation": ""
+  },
+  {
+    "title": "法律刷题课",
+    "content": "44.法的效力的内容不包括（",
+    "type": "single",
+    "options": [
+      {
+        "key": "A",
+        "content": "法的对象效力",
+        "_id": {
+          "$oid": "6846c426f675df8bcda8a663"
+        }
+      },
+      {
+        "key": "B",
+        "content": "法的时间效力",
+        "_id": {
+          "$oid": "6846c426f675df8bcda8a664"
+        }
+      },
+      {
+        "key": "C",
+        "content": "法的溯及力",
+        "_id": {
+          "$oid": "6846c426f675df8bcda8a665"
+        }
+      },
+      {
+        "key": "D",
+        "content": "法的空间效力",
+        "_id": {
+          "$oid": "6846c426f675df8bcda8a666"
+        }
+      }
+    ],
+    "correctAnswer": [],
+    "difficulty": "medium",
+    "subject": "gongji",
+    "module": "law",
+    "subModule": "",
+    "tags": [
+      "法律"
+    ],
+    "order": 23,
+    "isActive": true,
+    "stats": {
+      "totalAttempts": 0,
+      "correctAttempts": 0,
+      "accuracy": 0
+    },
+    "createdAt": {
+      "$date": "2025-06-09T11:23:18.376024+08:00"
+    },
+    "updatedAt": {
+      "$date": "2025-06-09T11:23:18.376025+08:00"
+    },
+    "_id": {
+      "$oid": "6846c426f675df8bcda8a662"
+    },
+    "explanation": ""
+  },
+  {
+    "title": "法律刷题课",
+    "content": "45.“无论是政治的立法或市民的立法，都只是表明和记载经济关系的要求而已。”这句话表明（    ）。",
+    "type": "single",
+    "options": [
+      {
+        "key": "A",
+        "content": "法是统治阶级意志的体现",
+        "_id": {
+          "$oid": "6846c426f675df8bcda8a668"
+        }
+      },
+      {
+        "key": "B",
+        "content": "法是由上层建筑决定的",
+        "_id": {
+          "$oid": "6846c426f675df8bcda8a669"
+        }
+      },
+      {
+        "key": "C",
+        "content": "法是由经济基础决定的",
+        "_id": {
+          "$oid": "6846c426f675df8bcda8a66a"
+        }
+      },
+      {
+        "key": "D",
+        "content": "法调整的是公民之间的法律关系",
+        "_id": {
+          "$oid": "6846c426f675df8bcda8a66b"
+        }
+      }
+    ],
+    "correctAnswer": [],
+    "difficulty": "medium",
+    "subject": "gongji",
+    "module": "law",
+    "subModule": "",
+    "tags": [
+      "法律"
+    ],
+    "order": 24,
+    "isActive": true,
+    "stats": {
+      "totalAttempts": 0,
+      "correctAttempts": 0,
+      "accuracy": 0
+    },
+    "createdAt": {
+      "$date": "2025-06-09T11:23:18.376032+08:00"
+    },
+    "updatedAt": {
+      "$date": "2025-06-09T11:23:18.376034+08:00"
+    },
+    "_id": {
+      "$oid": "6846c426f675df8bcda8a667"
+    },
+    "explanation": ""
+  },
+  {
+    "title": "法律刷题课",
+    "content": "下列关于法的效力的说法，正确的是（",
+    "type": "single",
+    "options": [
+      {
+        "key": "A",
+        "content": "我国法律一般具有溯及力，但法律另有规定的除外",
+        "_id": {
+          "$oid": "6846c457f675df8bcda8a66d"
+        }
+      },
+      {
+        "key": "B",
+        "content": "法律均自其公布之日起生效",
+        "_id": {
+          "$oid": "6846c457f675df8bcda8a66e"
+        }
+      },
+      {
+        "key": "C",
+        "content": "外国公民在中国领域内一般适用中国的法律，但享有外交特权和豁免权的外国人除外",
+        "_id": {
+          "$oid": "6846c457f675df8bcda8a66f"
+        }
+      },
+      {
+        "key": "D",
+        "content": "中国公民在中国领域外，也一律适用中国法律",
+        "_id": {
+          "$oid": "6846c457f675df8bcda8a670"
+        }
+      }
+    ],
+    "correctAnswer": [
+      "C"
+    ],
+    "explanation": "外国公民在中国领域内一般适用中国的法律，但享有外交特权和豁免权的外国人除外。",
+    "difficulty": "medium",
+    "subject": "gongji",
+    "module": "law",
+    "subModule": "",
+    "tags": [
+      "法律"
+    ],
+    "order": 0,
+    "isActive": true,
+    "stats": {
+      "totalAttempts": 0,
+      "correctAttempts": 0,
+      "accuracy": 0
+    },
+    "createdAt": {
+      "$date": "2025-06-09T11:24:07.486026+08:00"
+    },
+    "updatedAt": {
+      "$date": "2025-06-09T11:24:07.486033+08:00"
+    },
+    "_id": {
+      "$oid": "6846c457f675df8bcda8a66c"
+    }
+  },
+  {
+    "title": "法律刷题课",
+    "content": "下列关于法律关系的说法，错误的是（ ）。",
+    "type": "single",
+    "options": [
+      {
+        "key": "A",
+        "content": "法律关系是以法律规范和道德规范为前提的社会关系",
+        "_id": {
+          "$oid": "6846c457f675df8bcda8a672"
+        }
+      },
+      {
+        "key": "B",
+        "content": "法律关系的内容是权利和义务",
+        "_id": {
+          "$oid": "6846c457f675df8bcda8a673"
+        }
+      },
+      {
+        "key": "C",
+        "content": "法律关系由主体、客体、内容三个要素构成",
+        "_id": {
+          "$oid": "6846c457f675df8bcda8a674"
+        }
+      },
+      {
+        "key": "D",
+        "content": "国家也可以成为法律关系的主体",
+        "_id": {
+          "$oid": "6846c457f675df8bcda8a675"
+        }
+      }
+    ],
+    "correctAnswer": [
+      "A"
+    ],
+    "explanation": "法律关系是以法律规范为前提的社会关系，而不是道德规范。",
+    "difficulty": "medium",
+    "subject": "gongji",
+    "module": "law",
+    "subModule": "",
+    "tags": [
+      "法律"
+    ],
+    "order": 1,
+    "isActive": true,
+    "stats": {
+      "totalAttempts": 0,
+      "correctAttempts": 0,
+      "accuracy": 0
+    },
+    "createdAt": {
+      "$date": "2025-06-09T11:24:07.486087+08:00"
+    },
+    "updatedAt": {
+      "$date": "2025-06-09T11:24:07.486089+08:00"
+    },
+    "_id": {
+      "$oid": "6846c457f675df8bcda8a671"
+    }
+  },
+  {
+    "title": "法律刷题课",
+    "content": "《民法典》规定：“民事主体从事民事活动，不得违反法律，不得违背公序良俗。”该条规定体现了法律的（    ）。",
+    "type": "single",
+    "options": [
+      {
+        "key": "A",
+        "content": "教育作用",
+        "_id": {
+          "$oid": "6846c457f675df8bcda8a677"
+        }
+      },
+      {
+        "key": "B",
+        "content": "预测作用",
+        "_id": {
+          "$oid": "6846c457f675df8bcda8a678"
+        }
+      },
+      {
+        "key": "C",
+        "content": "指引作用",
+        "_id": {
+          "$oid": "6846c457f675df8bcda8a679"
+        }
+      },
+      {
+        "key": "D",
+        "content": "评价作用",
+        "_id": {
+          "$oid": "6846c457f675df8bcda8a67a"
+        }
+      }
+    ],
+    "correctAnswer": [
+      "C"
+    ],
+    "explanation": "该条规定体现了法律的指引作用，即引导人们的行为符合法律和公序良俗。",
+    "difficulty": "medium",
+    "subject": "gongji",
+    "module": "law",
+    "subModule": "",
+    "tags": [
+      "法律"
+    ],
+    "order": 2,
+    "isActive": true,
+    "stats": {
+      "totalAttempts": 0,
+      "correctAttempts": 0,
+      "accuracy": 0
+    },
+    "createdAt": {
+      "$date": "2025-06-09T11:24:07.486104+08:00"
+    },
+    "updatedAt": {
+      "$date": "2025-06-09T11:24:07.486106+08:00"
+    },
+    "_id": {
+      "$oid": "6846c457f675df8bcda8a676"
+    }
+  },
+  {
+    "title": "法律刷题课",
+    "content": "“法律必须被信仰，否则它将形同虚设”。这句话表明一个人只有从内心深处真正认同、信任和信仰法律，才会自觉维护法律的权威。由此可知（    ）。",
+    "type": "multiple",
+    "options": [
+      {
+        "key": "A",
+        "content": "法律的内在说服力是法律权威的内在基础",
+        "_id": {
+          "$oid": "6846c457f675df8bcda8a67c"
+        }
+      },
+      {
+        "key": "B",
+        "content": "法律权威不可能完全建立在外在强制力的基础之上",
+        "_id": {
+          "$oid": "6846c457f675df8bcda8a67d"
+        }
+      },
+      {
+        "key": "C",
+        "content": "法律信仰与宗教信仰没有本质的区别",
+        "_id": {
+          "$oid": "6846c457f675df8bcda8a67e"
+        }
+      },
+      {
+        "key": "D",
+        "content": "法律信仰是法律制定和执行的根本依据",
+        "_id": {
+          "$oid": "6846c457f675df8bcda8a67f"
+        }
+      }
+    ],
+    "correctAnswer": [
+      "A",
+      "B"
+    ],
+    "explanation": "法律的内在说服力和权威性不仅仅依赖于外在强制力，还需要人们的内心认同和信仰。",
+    "difficulty": "medium",
+    "subject": "gongji",
+    "module": "law",
+    "subModule": "",
+    "tags": [
+      "法律"
+    ],
+    "order": 3,
+    "isActive": true,
+    "stats": {
+      "totalAttempts": 0,
+      "correctAttempts": 0,
+      "accuracy": 0
+    },
+    "createdAt": {
+      "$date": "2025-06-09T11:24:07.486118+08:00"
+    },
+    "updatedAt": {
+      "$date": "2025-06-09T11:24:07.486120+08:00"
+    },
+    "_id": {
+      "$oid": "6846c457f675df8bcda8a67b"
+    }
+  },
+  {
+    "title": "法律刷题课",
+    "content": "在我国的立法体制下，属于地方性法规可以规定的事项是（ ）。",
+    "type": "single",
+    "options": [
+      {
+        "key": "A",
+        "content": "本行政区内各级政府的产生、组织和职权的规定",
+        "_id": {
+          "$oid": "6846c457f675df8bcda8a681"
+        }
+      },
+      {
+        "key": "B",
+        "content": "本行政区内文化及公共事业建设",
+        "_id": {
+          "$oid": "6846c457f675df8bcda8a682"
+        }
+      },
+      {
+        "key": "C",
+        "content": "基层群众自治制度",
+        "_id": {
+          "$oid": "6846c457f675df8bcda8a683"
+        }
+      },
+      {
+        "key": "D",
+        "content": "私人财产征收制度",
+        "_id": {
+          "$oid": "6846c457f675df8bcda8a684"
+        }
+      }
+    ],
+    "correctAnswer": [
+      "B"
+    ],
+    "explanation": "地方性法规可以规定本行政区内文化及公共事业建设等事项。",
+    "difficulty": "medium",
+    "subject": "gongji",
+    "module": "law",
+    "subModule": "",
+    "tags": [
+      "法律"
+    ],
+    "order": 4,
+    "isActive": true,
+    "stats": {
+      "totalAttempts": 0,
+      "correctAttempts": 0,
+      "accuracy": 0
+    },
+    "createdAt": {
+      "$date": "2025-06-09T11:24:07.486132+08:00"
+    },
+    "updatedAt": {
+      "$date": "2025-06-09T11:24:07.486134+08:00"
+    },
+    "_id": {
+      "$oid": "6846c457f675df8bcda8a680"
+    }
+  },
+  {
+    "title": "法律刷题课",
+    "content": "培养人们的法律意识必须强化人们的（",
+    "type": "multiple",
+    "options": [
+      {
+        "key": "A",
+        "content": "权利意识",
+        "_id": {
+          "$oid": "6846c457f675df8bcda8a686"
+        }
+      },
+      {
+        "key": "B",
+        "content": "道德观念",
+        "_id": {
+          "$oid": "6846c457f675df8bcda8a687"
+        }
+      },
+      {
+        "key": "C",
+        "content": "诚信观念",
+        "_id": {
+          "$oid": "6846c457f675df8bcda8a688"
+        }
+      },
+      {
+        "key": "D",
+        "content": "责任意识",
+        "_id": {
+          "$oid": "6846c457f675df8bcda8a689"
+        }
+      }
+    ],
+    "correctAnswer": [
+      "A",
+      "D"
+    ],
+    "explanation": "培养法律意识需要强化权利意识和责任意识。",
+    "difficulty": "medium",
+    "subject": "gongji",
+    "module": "law",
+    "subModule": "",
+    "tags": [
+      "法律"
+    ],
+    "order": 5,
+    "isActive": true,
+    "stats": {
+      "totalAttempts": 0,
+      "correctAttempts": 0,
+      "accuracy": 0
+    },
+    "createdAt": {
+      "$date": "2025-06-09T11:24:07.486144+08:00"
+    },
+    "updatedAt": {
+      "$date": "2025-06-09T11:24:07.486147+08:00"
+    },
+    "_id": {
+      "$oid": "6846c457f675df8bcda8a685"
+    }
+  },
+  {
+    "title": "法律刷题课",
+    "content": "我国法律制定程序中的最后一个步骤是（ ）。",
+    "type": "single",
+    "options": [
+      {
+        "key": "A",
+        "content": "法律草案的公布",
+        "_id": {
+          "$oid": "6846c457f675df8bcda8a68b"
+        }
+      },
+      {
+        "key": "B",
+        "content": "法律草案的表决和通过",
+        "_id": {
+          "$oid": "6846c457f675df8bcda8a68c"
+        }
+      },
+      {
+        "key": "C",
+        "content": "法律的公布",
+        "_id": {
+          "$oid": "6846c457f675df8bcda8a68d"
+        }
+      },
+      {
+        "key": "D",
+        "content": "法律草案的审议",
+        "_id": {
+          "$oid": "6846c457f675df8bcda8a68e"
+        }
+      }
+    ],
+    "correctAnswer": [
+      "C"
+    ],
+    "explanation": "法律制定程序的最后一个步骤是法律的公布。",
+    "difficulty": "medium",
+    "subject": "gongji",
+    "module": "law",
+    "subModule": "",
+    "tags": [
+      "法律"
+    ],
+    "order": 6,
+    "isActive": true,
+    "stats": {
+      "totalAttempts": 0,
+      "correctAttempts": 0,
+      "accuracy": 0
+    },
+    "createdAt": {
+      "$date": "2025-06-09T11:24:07.486156+08:00"
+    },
+    "updatedAt": {
+      "$date": "2025-06-09T11:24:07.486159+08:00"
+    },
+    "_id": {
+      "$oid": "6846c457f675df8bcda8a68a"
+    }
+  },
+  {
+    "title": "法律刷题课",
+    "content": "法是调整社会关系的行为规范，它通过规范人们的行为而达到调整社会关系的目的。下列不属于法的形式上的特征的是（ ）。",
+    "type": "single",
+    "options": [
+      {
+        "key": "A",
+        "content": "强制性",
+        "_id": {
+          "$oid": "6846c457f675df8bcda8a690"
+        }
+      },
+      {
+        "key": "B",
+        "content": "规范性",
+        "_id": {
+          "$oid": "6846c457f675df8bcda8a691"
+        }
+      },
+      {
+        "key": "C",
+        "content": "一般性",
+        "_id": {
+          "$oid": "6846c457f675df8bcda8a692"
+        }
+      },
+      {
+        "key": "D",
+        "content": "具体性",
+        "_id": {
+          "$oid": "6846c457f675df8bcda8a693"
+        }
+      }
+    ],
+    "correctAnswer": [
+      "D"
+    ],
+    "explanation": "法的形式上的特征包括强制性、规范性和一般性，不包括具体性。",
+    "difficulty": "medium",
+    "subject": "gongji",
+    "module": "law",
+    "subModule": "",
+    "tags": [
+      "法律"
+    ],
+    "order": 7,
+    "isActive": true,
+    "stats": {
+      "totalAttempts": 0,
+      "correctAttempts": 0,
+      "accuracy": 0
+    },
+    "createdAt": {
+      "$date": "2025-06-09T11:24:07.486173+08:00"
+    },
+    "updatedAt": {
+      "$date": "2025-06-09T11:24:07.486175+08:00"
+    },
+    "_id": {
+      "$oid": "6846c457f675df8bcda8a68f"
+    }
+  },
+  {
+    "title": "法律刷题课",
+    "content": "根据不同的标准，可以对法作不同的分类，成文法和不成文法的划分依据是（",
+    "type": "single",
+    "options": [
+      {
+        "key": "A",
+        "content": "根据法的创制方式和发布形式所作的分类",
+        "_id": {
+          "$oid": "6846c457f675df8bcda8a695"
+        }
+      },
+      {
+        "key": "B",
+        "content": "根据法的内容、效力和制定程序所作的分类",
+        "_id": {
+          "$oid": "6846c457f675df8bcda8a696"
+        }
+      },
+      {
+        "key": "C",
+        "content": "根据法的空间效力、时间效力或对人的效力所作的分类",
+        "_id": {
+          "$oid": "6846c457f675df8bcda8a697"
+        }
+      },
+      {
+        "key": "D",
+        "content": "根据法的内容所作的分类",
+        "_id": {
+          "$oid": "6846c457f675df8bcda8a698"
+        }
+      }
+    ],
+    "correctAnswer": [
+      "A"
+    ],
+    "explanation": "成文法和不成文法的划分依据是根据法的创制方式和发布形式所作的分类。",
+    "difficulty": "medium",
+    "subject": "gongji",
+    "module": "law",
+    "subModule": "",
+    "tags": [
+      "法律"
+    ],
+    "order": 8,
+    "isActive": true,
+    "stats": {
+      "totalAttempts": 0,
+      "correctAttempts": 0,
+      "accuracy": 0
+    },
+    "createdAt": {
+      "$date": "2025-06-09T11:24:07.486185+08:00"
+    },
+    "updatedAt": {
+      "$date": "2025-06-09T11:24:07.486187+08:00"
+    },
+    "_id": {
+      "$oid": "6846c457f675df8bcda8a694"
+    }
+  }
+]

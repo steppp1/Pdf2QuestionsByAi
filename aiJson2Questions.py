@@ -104,8 +104,11 @@ async def transform_raw_text_to_mongo_questions(raw_text_data: List[Dict]) -> Li
     输出要求：
     - 只输出标准JSON格式，不要markdown标记
     - 每个题目必须有完整的题干和选项
+    - 每个题不能有所在文档的数字的序号
+    - 每个题目必须包含correctAnswer和explanation字段
+    - correctAnswer必须是数组格式，包含正确选项（如["A"]或["A","C"]）
+    - explanation必须是字符串，提供题目解析
     - 如果没有找到完整题目，返回空数组
-    - 不需要判断题目类型，程序会自动处理
 
     输出格式：
     {
@@ -117,7 +120,7 @@ async def transform_raw_text_to_mongo_questions(raw_text_data: List[Dict]) -> Li
             {"key": "B", "content": "选项内容"}
           ],
           "correctAnswer": ["A"],
-          "explanation": "解析",
+          "explanation": "解析内容",
           "difficulty": "medium",
           "subject": "gongji",
           "module": "law",
@@ -135,12 +138,16 @@ async def transform_raw_text_to_mongo_questions(raw_text_data: List[Dict]) -> Li
 文本内容：
 {formatted_input_text}
 
-要求：
+严格要求：
 1. 识别完整题目（有题干+选项）
-2. 推断正确答案和解析
-3. 不需要判断题目类型，程序会自动处理
-4. 只输出纯JSON格式，不要markdown
-5. 没有题目时返回空数组
+2. 必须推断正确答案（correctAnswer字段）
+3. 必须提供题目解析（explanation字段）
+4. correctAnswer必须是数组格式，如["A"]或["B","C"]
+5. explanation必须是有意义的解析内容，不能为空
+6. 只输出纯JSON格式，不要markdown
+7. 没有题目时返回空数组
+
+关键：每个题目都必须包含correctAnswer和explanation字段！
 
 直接输出JSON：
     """
@@ -303,6 +310,16 @@ async def transform_raw_text_to_mongo_questions(raw_text_data: List[Dict]) -> Li
         if "content" not in q_data or not q_data["content"]:
             print(f"  ⚠️  数据格式警告: 第{i+1}题缺少题目内容，跳过")
             continue
+        
+        # 检查和修复 correctAnswer 字段
+        if "correctAnswer" not in q_data or not q_data["correctAnswer"]:
+            print(f"  ⚠️  数据完整性警告: 第{i+1}题缺少正确答案，设为空数组")
+            q_data["correctAnswer"] = []
+        
+        # 检查和修复 explanation 字段
+        if "explanation" not in q_data or not q_data["explanation"]:
+            print(f"  ⚠️  数据完整性警告: 第{i+1}题缺少解析，设为空字符串")
+            q_data["explanation"] = ""
             
         valid_questions.append(q_data)
     
