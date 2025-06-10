@@ -1,8 +1,14 @@
+# 根据自动识别的json文本创建题目的json数据
 conda activate home 
 python main.py -i test.json/示例.json -o output/
 
+# 导入mongo
 mongoimport --uri="mongodb://localhost:27017" \
             --db=home \
             --collection=questions \
             --file=./output/test_questions.json \
             --jsonArray
+            
+# 检查输出的json的答案还有解释是否为空
+conda activate home 
+python testNull.py ./output/test_questions.json

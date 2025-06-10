@@ -5,6 +5,10 @@
 
 # 忽略 output 文件夹及其内容
 output/
+output_test/
+output_test_fixed/
+test_output/
+
 
 # 忽略特定 Markdown 文件
 prompt.md
